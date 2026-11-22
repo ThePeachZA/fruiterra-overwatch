@@ -2,7 +2,7 @@
   "kind": "fgc-content-pack",
   "version": 1,
   "name": "Fruiterra Overwatch",
-  "description": "Overwatch artwork for the Fruiterra Graphics Controller: hero art and ban icons, map images, team logos, player portraits and the game-mode, role and side icons.",
+  "description": "Overwatch artwork for the Fruiterra Graphics Controller: hero art and ban icons, map images, and the game-mode, role and side icons. Team logos and player portraits are deliberately not included; they belong to a team, not to shared artwork.",
   "author": "ThePeachZA",
   "license": "Personal broadcast use. Overwatch is a trademark of Blizzard Entertainment; this pack is not affiliated with or endorsed by Blizzard Entertainment.",
   "homepage": "https://github.com/ThePeachZA/fruiterra-overwatch",
@@ -10,7 +10,7 @@
   "schemaVersion": 2,
   "assets": [
     {
-      "id": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "id": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "name": "Control",
       "category": "game-mode",
       "hash": "f69ec8c13c9e04da182f18a86c8e85dd5d2f442e56a3dc353f29979a57f8be87",
@@ -24,7 +24,7 @@
       "attachment": null
     },
     {
-      "id": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "id": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "name": "Escort",
       "category": "game-mode",
       "hash": "eac410448cba8a1857d7d366a77da735e5f87a965c02a8be241b9a7e0e6acbb9",
@@ -38,7 +38,7 @@
       "attachment": null
     },
     {
-      "id": "df7b87cf-c7c0-43d6-b4cf-2a215389c06a",
+      "id": "db6b6346-59f3-45a0-b95f-b90de01021bc",
       "name": "Flashpoint",
       "category": "game-mode",
       "hash": "a1ce8ee79d4cb2702ba2d1647e43c9055c4f9a099caa768236a75557f4d50a5c",
@@ -52,7 +52,7 @@
       "attachment": null
     },
     {
-      "id": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "id": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "name": "Hybrid",
       "category": "game-mode",
       "hash": "b4a93feacf21cbc68476c45acd761d996cc2b26627a7e50d30a89d164211402c",
@@ -66,7 +66,7 @@
       "attachment": null
     },
     {
-      "id": "b311517b-1bb9-42c0-8595-b3ad4a7a8e0d",
+      "id": "59d430c4-4c87-4988-bcaf-3bf824416b37",
       "name": "Push",
       "category": "game-mode",
       "hash": "de35275934cf974fc446f99b93e0809f977b7269cb2370ed315a0930292b1253",
@@ -80,7 +80,7 @@
       "attachment": null
     },
     {
-      "id": "45e94c39-82e6-4120-b08c-c531e172abc1",
+      "id": "c69162ba-1920-4fae-88ea-be4176a3cc17",
       "name": "Damage",
       "category": "role",
       "hash": "e99fd8a63b8dc2fc8876279c9a4d03250b127f75321c3b81e6435007680e2c3b",
@@ -94,7 +94,7 @@
       "attachment": null
     },
     {
-      "id": "7b6c2408-ff8c-466f-9740-474fc89322c3",
+      "id": "d17dba14-39bd-40a2-ab69-1b1bd2d23421",
       "name": "Support",
       "category": "role",
       "hash": "103bbd7ac696b676cd903817f7ab84fa20290b4718020f7bfdff2a40c659a818",
@@ -108,7 +108,7 @@
       "attachment": null
     },
     {
-      "id": "09a7b10d-f085-4abc-9d9c-93947addca6f",
+      "id": "cb26230e-5d8d-4baf-bebc-b13f83821032",
       "name": "Tank",
       "category": "role",
       "hash": "52c15760ae68f89857bbb907fa17768fb78730b682c18ca22153ffd4146f4f09",
@@ -122,7 +122,7 @@
       "attachment": null
     },
     {
-      "id": "4187c56a-6e9c-459d-bc8e-fdf4058a39d2",
+      "id": "234b6d4b-92e5-4d9c-a978-5aeccca19bf1",
       "name": "Attack",
       "category": "side",
       "hash": "183164780b9cbd6950b53bf4b748aa8d947dc2100b735ae05c00877029fe5373",
@@ -136,7 +136,7 @@
       "attachment": null
     },
     {
-      "id": "5e0a71eb-7aea-4cb6-8a11-319445aa922e",
+      "id": "8b77f686-d3e1-4577-84d0-1babfe2a3d77",
       "name": "Defend",
       "category": "side",
       "hash": "75e6c40e9464f73de2eff76a74b4ed6bcbb9a2c72c63d67d9f5e571d48c6a2e7",
@@ -148,72 +148,6 @@
       "role": null,
       "gameMode": null,
       "attachment": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "434841ffb3e42cc73023f08556b226352855f71269192d83af0e964364b7b907",
-      "icon": null,
-      "id": "1dad0b3c-041f-40f0-a4c0-5137fe3f928a",
-      "name": "Pink Salamanders",
-      "originalFilename": "Pink Salamanders.png",
-      "portrait": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "b42d6c099f44f51018d5bb26518ce904f8a5523913c8355a7bc6ecb4b0909472",
-      "icon": null,
-      "id": "804a377e-4e8b-485d-82ad-47db350e0789",
-      "name": "Inglorious Blasters",
-      "originalFilename": "Inglorious Blasters.png",
-      "portrait": null
-    },
-    {
-      "category": "portrait",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "a404e7e956262d092fd6a08375a07f9e99f3fbe4d69e1112ac958d936b571826",
-      "icon": null,
-      "id": "6333d7ee-f5eb-46a3-9785-12cab47ce255",
-      "name": "Babs",
-      "originalFilename": "Babs.png",
-      "portrait": null
-    },
-    {
-      "category": "portrait",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "c2b580c6f49abb94d873a2f4e960d41504a22b5568753a66e48bb9ed76c6ca39",
-      "icon": null,
-      "id": "15fbec2c-4e4a-405d-9035-4ac8dfde5df7",
-      "name": "Blur",
-      "originalFilename": "Blur.png",
-      "portrait": null
-    },
-    {
-      "category": "portrait",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "13e937abe4981fdd6f69e9d871ea33210d99f54d05b559f41f250a66b1b4dcec",
-      "icon": null,
-      "id": "83059ed5-f3ff-4390-8508-077378c8a6fd",
-      "name": "Ulturism",
-      "originalFilename": "Ulturism.png",
-      "portrait": null
-    },
-    {
-      "category": "portrait",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "270570e2c396b574858a2d9f2bb124604602fb4b14c9769319166704d6deabda",
-      "icon": null,
-      "id": "3548ab41-9bb7-4a04-b3cf-a4d4b927863c",
-      "name": "SunPheonyx",
-      "originalFilename": "SunPheonyx.png",
-      "portrait": null
     },
     {
       "category": "hero",
@@ -812,7 +746,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "df7b87cf-c7c0-43d6-b4cf-2a215389c06a",
+      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
       "hash": "064898256f0b625f315371c36dfdba226b36bec10c20c0b700b9cba4d0052581",
       "icon": null,
       "id": "50d60f3b-084f-423d-8017-b5bc60b61efb",
@@ -823,7 +757,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "8744ee6012ee7ab5094d60d73861597b573b9ec82c581e60a31627928d1089cb",
       "icon": null,
       "id": "bac11360-5216-4843-a7bd-d6eab34d6201",
@@ -834,7 +768,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "5770a1c4c5223c5e6fbb5e8ff6999558928648b4c36a1d36326603b554d295be",
       "icon": null,
       "id": "2e0b425f-e277-4aa2-8020-d2ee8cd59600",
@@ -845,7 +779,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "c55a8f55e68f7bab430926163042c61d90d8ee9fc9ce59c92c545c4ac97d8fa7",
       "icon": null,
       "id": "9a49b84c-b1f8-424b-a86d-c017610f0cb9",
@@ -856,7 +790,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "60729c7d7209e16ca03980a3aafedd932c4d8f0c70694c477c06f7ffda581c0b",
       "icon": null,
       "id": "96a63043-3172-4fa0-a275-5b3cdc6d7c3c",
@@ -867,7 +801,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b311517b-1bb9-42c0-8595-b3ad4a7a8e0d",
+      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
       "hash": "982ba0042d05573016ca2c22d43294c8d3c3c1cc29fa8e20e04ea69c9abe5e93",
       "icon": null,
       "id": "93fcf499-c54d-4fec-90fa-1cdbd4e1fe88",
@@ -878,7 +812,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "eb65a6c27d6bd7eefab1adde959faa6f30a4dd63c02bbddc9a3ca73ee9c915b8",
       "icon": null,
       "id": "4bc6c190-4682-42c6-bc77-7d30d8734db5",
@@ -889,7 +823,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "55d4cdc630f546bbd7d3f512d60dd411243ee5a20c8e69136892c6fe9556985a",
       "icon": null,
       "id": "9b6ad6f1-1b07-42a2-a79d-1dd2309e84ed",
@@ -900,7 +834,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b311517b-1bb9-42c0-8595-b3ad4a7a8e0d",
+      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
       "hash": "a14a291f80cd4babc982cd8419ad2c27137ba423bde0b6096363d8d8a798eca7",
       "icon": null,
       "id": "96e11935-ca26-41d0-9e19-6dd675bb3999",
@@ -911,7 +845,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "973566cf3739b2c82e55f91a64082a6e4c1f2823556324507e3d04906a5114bd",
       "icon": null,
       "id": "21b092dd-de5d-485b-997e-3d4b5ebe0e14",
@@ -922,7 +856,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "5525cfb7431de2adcbc22dc22205aa54f03c6207c1deb8280cc6481a7457888e",
       "icon": null,
       "id": "9e649366-563d-4bbe-aa34-b61ad3ed6bbf",
@@ -933,7 +867,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "7d1f92fb3a3569101b1fe9c3ccfc9741b86cbf4be68b3b121dfb70f0f7f57978",
       "icon": null,
       "id": "696ebfe7-c210-45da-9fd9-e1986e276341",
@@ -944,7 +878,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "542a86b96d5dd0d1ebb09dd9a85c42cd0b4fc40d7472f13c8c531106681904d0",
       "icon": null,
       "id": "246f91be-f1fd-4a76-926e-71988b09632a",
@@ -955,7 +889,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "c550e9f81e38c3230156a8327427ad163046f49ccdc7a2e674d78325ce48e09c",
       "icon": null,
       "id": "fe7ac659-3bf2-4356-aeaa-f875392879ae",
@@ -966,7 +900,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "902068b13fd8267f56d2735979551f9952e4d534ac4734bcccd8115b13833119",
       "icon": null,
       "id": "dec3d450-8931-46b6-b75f-165e296ef306",
@@ -977,7 +911,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "d8001f02d4fe84c32990a7512e05831605b42efdc503b0f9f5a800cc3461ec07",
       "icon": null,
       "id": "2b72173b-29df-436f-adc7-3ef829fa8906",
@@ -988,7 +922,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "8cbd76114a3f26c6a76405528da255c545bb85eee05a0818e422eebe9d6f74ac",
       "icon": null,
       "id": "8e94fefb-68b3-4f3a-a072-93cf3cb367de",
@@ -999,7 +933,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "df7b87cf-c7c0-43d6-b4cf-2a215389c06a",
+      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
       "hash": "266f7ed7c286a2b28646772d6e84b3e40bffa4726e5e291c692a9c9a7fa736b1",
       "icon": null,
       "id": "ec8aa77d-d307-41a2-9f30-b6ec8f64e288",
@@ -1010,7 +944,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b311517b-1bb9-42c0-8595-b3ad4a7a8e0d",
+      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
       "hash": "bc6c684bf993b0f1d94875fc86a0c93976945775cfa45df134bb6af2518a3f20",
       "icon": null,
       "id": "391ac435-a454-4382-978a-2da686d1aa75",
@@ -1021,7 +955,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "993a777eebe2356ab8ab4ebbd9e38ba649a0a3b73334d5ecafc18c8142ed0ae2",
       "icon": null,
       "id": "9cdc9043-0c8d-47d9-88bb-c344310abb18",
@@ -1032,7 +966,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "9185bf1ea427d62fa8adb2c04b13fed3997f7c30914e298f5033f2dbef99e347",
       "icon": null,
       "id": "4a6f4074-51f3-4a93-a3ad-55b3b54e2bac",
@@ -1043,7 +977,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "25672ef5-18b7-4031-9ef4-9bdfd39790ee",
+      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
       "hash": "a9b25e716b839ad7a903ef622379ae2a24cfa3be1a5585f72d835cded3abccc9",
       "icon": null,
       "id": "3051229d-a735-45d1-bab6-978f5386d056",
@@ -1054,7 +988,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "2e87fa2f41c047afe49edff682ef09e5a36ebd0f44f93c47abf8187eb6d419c1",
       "icon": null,
       "id": "700ae983-9837-4bf3-a034-9bf246077d82",
@@ -1065,7 +999,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "a0c37587e20b559914f6d6b8a7bbdf4a21513c3dad7a97256c9aa61b22397642",
       "icon": null,
       "id": "2298db76-38cb-4565-9709-65a87b479445",
@@ -1076,7 +1010,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b311517b-1bb9-42c0-8595-b3ad4a7a8e0d",
+      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
       "hash": "d279c0d4477fc3cc4c6046d9dbe5157e5d4c6c21863871de82abf00816716c92",
       "icon": null,
       "id": "6de8cdc4-1e6e-4451-8fb1-f2d753969e4f",
@@ -1087,7 +1021,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "de550e23-2520-413a-a629-678fcd6a8de1",
+      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
       "hash": "e7cc4fdf2245694c1e50d09772702c8e42577072a21d7b7106704f630f8e204c",
       "icon": null,
       "id": "d3b44acb-6c04-430e-9f7d-114464434eb0",
@@ -1098,7 +1032,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "804bf28f005fcd3eeb3a17836bdda2868f38ef22be17fff419f0316709bd3ff3",
       "icon": null,
       "id": "55fca3e3-1095-4d16-9c2b-8c2dc663a87e",
@@ -1109,7 +1043,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "df7b87cf-c7c0-43d6-b4cf-2a215389c06a",
+      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
       "hash": "91545ef665ed69604baa337b378b1f38a6de957346039256e7a7547f28844fe3",
       "icon": null,
       "id": "4e3c4c61-e7be-4275-902c-9ce95d98abc8",
@@ -1120,7 +1054,7 @@
     {
       "category": "map",
       "ext": "png",
-      "gameMode": "b0720946-77e1-46e8-aa4e-10a8d653ebd0",
+      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
       "hash": "5b3d9b63036260f8c46f701324ab95df46e9b80c65f27c85fdba81afa49bc163",
       "icon": null,
       "id": "8a70fea7-ea39-427b-a6ef-d43020205248",
@@ -1936,50 +1870,6 @@
       "id": "52825ee6-7049-431c-b431-fd0cc1aad9ea",
       "name": "Zenyatta ban icon",
       "originalFilename": "Zenyatta.png",
-      "portrait": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "4260f16afc116bb4ff0b66d54814ca021384d9cbf8876c078c261939dca09b8b",
-      "icon": null,
-      "id": "80107df0-790c-4adc-909a-259510b49402",
-      "name": "ACGL",
-      "originalFilename": "ACGL Icon allmode.png",
-      "portrait": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "e3ecee2e4ea65c0056914db93fb434caf284eadaecb83b3fcb29be97978ad1ad",
-      "icon": null,
-      "id": "54ac3be5-7aa3-45c2-9bf1-3edb0ddda659",
-      "name": "COWZA",
-      "originalFilename": "COWZA.png",
-      "portrait": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "b381af66dff857b7446d438d26755a511f878f8b3491a651d477bf39527d2725",
-      "icon": null,
-      "id": "af853e6b-9233-4bfe-bf48-1940b0894b60",
-      "name": "Team Nameless",
-      "originalFilename": "Team Nameless.png",
-      "portrait": null
-    },
-    {
-      "category": "logo",
-      "ext": "png",
-      "gameMode": null,
-      "hash": "313c88dae268a0f47f945847381fc1f1b0035771e19a5f7cde368411848de438",
-      "icon": null,
-      "id": "b4d37f55-b6cd-44ed-a54f-1ac016418efd",
-      "name": "5 Knights at Freddy's",
-      "originalFilename": "5 Knights at Freddy's.png",
       "portrait": null
     }
   ]
