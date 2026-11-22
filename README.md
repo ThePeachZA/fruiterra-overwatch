@@ -1,6 +1,6 @@
 # Fruiterra Overwatch - content pack
 
-Overwatch artwork for the [Fruiterra Graphics Controller](https://github.com/ThePeachZA/fruiterra-graphics-controller): hero art, hero ban icons, map images, and the game-mode, role and side icons.
+Overwatch artwork for the [Fruiterra Graphics Controller](https://github.com/ThePeachZA/fruiterra-graphics-controller): hero art, hero ban icons, transparent hero cut-outs, hexagonal hero badges, hero roles, map images, and the game-mode, role and side icons.
 
 The controller ships no game artwork of its own, so it works with any esport. This pack adds the Overwatch set to a project.
 
@@ -10,13 +10,15 @@ A content pack holds **artwork only**. It never carries teams, players, talent, 
 
 | Category | Count | What it is |
 |---|---|---|
-| Hero | 108 | 54 heroes: each one's artwork and its small ban icon |
+| Hero | 211 | 54 heroes, each with its artwork, its ban icon, its transparent cut-out and (where the art exists) its hexagonal badge |
 | Map | 29 | Map images, each linked to its game mode |
 | Game mode | 5 | Control, Escort, Flashpoint, Hybrid, Push |
 | Role | 3 | Tank, Damage, Support |
 | Side | 2 | Attack, Defend |
 
-147 assets in total. Team logos, tournament logos and player portraits are **not** included: those belong to the person running the show, not to the artwork pack.
+250 assets in total. Team logos, tournament logos and player portraits are **not** included: those belong to the person running the show, not to the artwork pack.
+
+Every hero carries its **role**, so the hero bans overlay can draw the role hexagon without any further setup. The transparent cut-outs are what the hero bans overlay uses for the full-bleed layout, and the hexagonal badges are the framed portrait it shows in the corner.
 
 ## Installing it
 

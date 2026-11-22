@@ -2,7 +2,7 @@
   "kind": "fgc-content-pack",
   "version": 1,
   "name": "Fruiterra Overwatch",
-  "description": "Overwatch artwork for the Fruiterra Graphics Controller: hero art and ban icons, map images, and the game-mode, role and side icons. Team logos and player portraits are deliberately not included; they belong to a team, not to shared artwork.",
+  "description": "Overwatch artwork for the Fruiterra Graphics Controller: hero art, ban icons, transparent cut-outs, hexagonal badges, hero roles, map images and the game-mode, role and side icons. Team logos and player portraits are deliberately not included; they belong to a team, not to shared artwork.",
   "author": "ThePeachZA",
   "license": "Personal broadcast use. Overwatch is a trademark of Blizzard Entertainment; this pack is not affiliated with or endorsed by Blizzard Entertainment.",
   "homepage": "https://github.com/ThePeachZA/fruiterra-overwatch",
@@ -10,7 +10,7 @@
   "schemaVersion": 2,
   "assets": [
     {
-      "id": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "id": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "name": "Control",
       "category": "game-mode",
       "hash": "f69ec8c13c9e04da182f18a86c8e85dd5d2f442e56a3dc353f29979a57f8be87",
@@ -19,12 +19,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "id": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "name": "Escort",
       "category": "game-mode",
       "hash": "eac410448cba8a1857d7d366a77da735e5f87a965c02a8be241b9a7e0e6acbb9",
@@ -33,12 +34,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "db6b6346-59f3-45a0-b95f-b90de01021bc",
+      "id": "7410e158-8a8b-4e85-97fc-f5e7cc94fae0",
       "name": "Flashpoint",
       "category": "game-mode",
       "hash": "a1ce8ee79d4cb2702ba2d1647e43c9055c4f9a099caa768236a75557f4d50a5c",
@@ -47,12 +49,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "id": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "name": "Hybrid",
       "category": "game-mode",
       "hash": "b4a93feacf21cbc68476c45acd761d996cc2b26627a7e50d30a89d164211402c",
@@ -61,12 +64,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "59d430c4-4c87-4988-bcaf-3bf824416b37",
+      "id": "7d91be7f-02e4-4c5e-b843-02944d0b1b87",
       "name": "Push",
       "category": "game-mode",
       "hash": "de35275934cf974fc446f99b93e0809f977b7269cb2370ed315a0930292b1253",
@@ -75,12 +79,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "c69162ba-1920-4fae-88ea-be4176a3cc17",
+      "id": "bff0cb24-782e-41c8-939f-56a01f158ccc",
       "name": "Damage",
       "category": "role",
       "hash": "e99fd8a63b8dc2fc8876279c9a4d03250b127f75321c3b81e6435007680e2c3b",
@@ -89,12 +94,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "d17dba14-39bd-40a2-ab69-1b1bd2d23421",
+      "id": "e5bc68d1-97c0-4849-83da-2dc2a750bd4a",
       "name": "Support",
       "category": "role",
       "hash": "103bbd7ac696b676cd903817f7ab84fa20290b4718020f7bfdff2a40c659a818",
@@ -103,12 +109,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "cb26230e-5d8d-4baf-bebc-b13f83821032",
+      "id": "7a852dea-1ad6-4a43-9553-a4a97dffd630",
       "name": "Tank",
       "category": "role",
       "hash": "52c15760ae68f89857bbb907fa17768fb78730b682c18ca22153ffd4146f4f09",
@@ -117,12 +124,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "234b6d4b-92e5-4d9c-a978-5aeccca19bf1",
+      "id": "83d91618-68f7-49e7-bf27-776f73948b52",
       "name": "Attack",
       "category": "side",
       "hash": "183164780b9cbd6950b53bf4b748aa8d947dc2100b735ae05c00877029fe5373",
@@ -131,12 +139,13 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
-      "id": "8b77f686-d3e1-4577-84d0-1babfe2a3d77",
+      "id": "73cb42d3-499e-486c-bcea-76812c00e5ba",
       "name": "Defend",
       "category": "side",
       "hash": "75e6c40e9464f73de2eff76a74b4ed6bcbb9a2c72c63d67d9f5e571d48c6a2e7",
@@ -145,1732 +154,3998 @@
       "icon": null,
       "portrait": null,
       "transparent": null,
+      "badge": null,
       "role": null,
       "gameMode": null,
       "attachment": null
     },
     {
+      "badge": "f497c960-1bdb-4602-ba5b-a7d8ec13a84d",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e9c02444a977b54eefdc393cf56134c278e1e96f47cdb6e43868ebaa47374453",
-      "icon": "030a94ac-72d5-4e4f-95e7-3870cbc3c823",
+      "icon": "cb51f367-41bf-4a48-b776-f7163d5cd288",
       "id": "290c1c5f-c2a3-49c5-ba12-40b1e1722558",
       "name": "Ana",
       "originalFilename": "Ana.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "e40b6c09-f5c1-462f-91f5-29a9ba3ea763"
     },
     {
+      "badge": "e0bd8956-7407-4f41-8d6b-f9ee26e7747d",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bcf734473c33408f85300d9540ca5e5a89a3d7dfc8eb804c77e2edbe001a1102",
-      "icon": "460c4402-210e-4d40-af1e-8cf467682aa4",
+      "icon": "a6d4f07d-4a1b-44ba-81c3-79ed1272b18f",
       "id": "90cee075-7ad1-45c5-a6e2-0ab3987286b1",
       "name": "Anran",
       "originalFilename": "Anran.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "ce5d4b6a-9599-4f3b-9d51-4f33264bb946"
     },
     {
+      "badge": "6aca5407-7463-459e-8ad4-373422f6ed52",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "74958862b75f0e0db61f0abb20b7384053e72349e47eaa1518ab2ce849054520",
-      "icon": "0b96a16e-101c-46ac-a849-dad467a55174",
+      "icon": "16d3f724-8e5c-43d2-b4db-90fc8967030d",
       "id": "b34dc698-d6e4-4b81-8f25-d5c48c7cc5ae",
       "name": "Ashe",
       "originalFilename": "Ashe.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "d224ac8c-f077-4148-8ee6-121b95d02665"
     },
     {
+      "badge": "294549cc-28c3-4dca-9c8f-db3eee3eac65",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "7dd2926d2891fce13039b15e0ed37f037596aadb545990c9da940acfe5c11f9f",
-      "icon": "dde7322f-cfee-4308-87a1-be880df55be2",
+      "icon": "a3fdf771-2be5-4a88-bc1a-c48b12ea5759",
       "id": "6ba10afd-83e0-4918-98ad-2082e41c1ea5",
       "name": "Baptiste",
       "originalFilename": "Baptiste.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "6c0db166-6344-4e93-be21-010585ce5556"
     },
     {
+      "badge": "c0c88d92-019d-4286-a4ac-5b5a6be1d06a",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "ca6e1d74526a07621c71df9d534f793fbd3c610b6a86b132e3b98b77b52454fe",
-      "icon": "499bb6a4-54da-47a3-8f2a-8153697b763b",
+      "icon": "177d6091-db00-4e0d-860f-022a9e15b477",
       "id": "a269ecf8-8d82-4b22-82e7-c215c77a13a5",
       "name": "Bastion",
       "originalFilename": "Bastion.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "70b2b62b-41ec-49f9-baea-cf39cf3f7280"
     },
     {
+      "badge": "a7e30504-df28-4175-835c-fd198faa5e86",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a1c9ee813d2786f74dac1b6358413ee3bad2b640cb03f99820607ff408a86068",
-      "icon": "eaf62a30-f9ac-49d9-b612-8f139eecb88e",
+      "icon": "b15ea659-b6d5-481e-a6c6-c6dcce2b4296",
       "id": "428321ac-f94b-47c4-85b3-f37986d3ef2b",
       "name": "Brigitte",
       "originalFilename": "Brigitte.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "a9057a3b-32a7-4bb9-a03f-531bd3bd7b6a"
     },
     {
+      "badge": "d2de4b66-3f43-43cf-896d-7078b37884cf",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "9fb30cf0df6ff764d5ef4206a03a71c9d93fb434a656709431db2a2612321381",
-      "icon": "6578b20c-4a8c-47b0-91c7-d312265314b4",
+      "icon": "e58d6880-f7cf-4a9b-9ec4-c1f06939a074",
       "id": "02583151-3cb6-45a7-9fa4-e23582c2ac43",
       "name": "Cassidy",
       "originalFilename": "Cassidy.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "cf925ae4-a426-435b-8a9c-3cac17e4279a"
     },
     {
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "6af4383628affafaa92fbb7583a4415aa365f7640cf7593be3ba77e32d118ae5",
-      "icon": "0244f3c3-a252-4539-8ffc-f39a633832fe",
+      "icon": "15526bf2-5cc9-4161-95ba-b1f942c2107e",
       "id": "0ec6a214-ced5-4cee-82f8-5fbd4a55a443",
       "name": "Dmon",
       "originalFilename": "Dmon.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "48712a26-3584-4f28-a334-8be39806962c"
     },
     {
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "ac41b56b66c09e9169df213069a84489130961d3a17df7e4fb4bd222f2d42033",
-      "icon": "2c97c6de-72c3-42df-9e08-cc9bb77aeddd",
+      "icon": "cd1f5948-de54-4b58-8e87-ec0c6de3ed63",
       "id": "4559703c-ce35-4dcd-adc1-09c13d54d7a8",
       "name": "Doctrine",
       "originalFilename": "Doctrine.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "caabfe7a-31ef-469d-9fd0-b83f4b0553b8"
     },
     {
+      "badge": "9a6fc000-2aa4-4807-9275-d25bc8584f1b",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "9cad0e79824bd9608361763afffe48e3a6f95a25391678b56aae04ccbfbba0fb",
-      "icon": "36c52843-f000-4e76-b65e-a6800724de98",
+      "icon": "cdf7f6f7-c6ff-4af4-a3af-0f47190aff70",
       "id": "08570d88-b3c7-46fa-8a38-b01b3d1396fd",
       "name": "Domina",
       "originalFilename": "Domina.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "47337b54-f8d5-481e-af1f-c12f93c67bd8"
     },
     {
+      "badge": "233c4215-e862-4789-8694-acd90e71231e",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "b8c23f4511d18f5066498d46a81a0340eac8b4d41ee56fc22a88543f70bdf3bc",
-      "icon": "317cc986-26c0-427d-88e2-2cef52eded51",
+      "icon": "2dad0acf-4394-467d-82da-345c97caa21d",
       "id": "25317c96-0e22-41b9-9340-460de534214d",
       "name": "Doomfist",
       "originalFilename": "Doomfist.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "f471c2cd-1edb-4301-b556-31e55570cba4"
     },
     {
+      "badge": "038cf236-55e1-4882-9313-6d728ad6ec21",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "9bffb5c94b73bf9ae6de75051ff830918d3530d55268ed90ecfef30ba095836f",
-      "icon": "b35cb67f-84a7-450e-af48-99363242a898",
+      "icon": "15f417c9-24b7-4d58-a81b-8e9b194a5366",
       "id": "86bcbf18-3451-4cac-927c-9fbe700abcf1",
       "name": "Dva",
       "originalFilename": "Dva.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "00af3d55-c101-4898-84c2-c5ceea7131df"
     },
     {
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "4d2626880e38ee41ef48daab652f54210eb8dee9860ccedc9352b54ea98eff21",
-      "icon": "fa549552-52a1-4547-82a7-765112042f05",
+      "icon": "1839601a-3d46-4550-8bda-d633aa6b39f9",
       "id": "a2f7a3da-8d7f-4daf-bd7d-5b89c6fb79d8",
       "name": "Echo",
       "originalFilename": "Echo.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "de6439ae-e907-4109-b0a6-cb06517ba345"
     },
     {
+      "badge": "75aa6e4d-c22c-42d9-a6b1-378c4ab8cc0c",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "55a26ba65c597b2a285e41d7633b500c29256b7afde4bd2ccc5a7f99a224b92e",
-      "icon": "4dea0894-9a5d-4bd0-b4c7-13f2b3b7ee21",
+      "icon": "fafb0a20-dcb6-448e-b142-dc1c186e0934",
       "id": "ca3bb398-667c-4d5c-9169-c7135da27d96",
       "name": "Emre",
       "originalFilename": "Emre.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "9e90336b-6748-440f-b5e2-fdf25200892c"
     },
     {
+      "badge": "38fe49b1-9b09-4638-a1b3-378793920cb8",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "5a628c901ce94b03b1dd6d03a9cd99e21cd9f91fd0c1aba26c2bf3178cc5c07f",
-      "icon": "2be81679-e4fe-446d-824d-c6b16c3fb57f",
+      "icon": "ef0d07ba-c6fa-4f90-af6a-4748ae5a73f2",
       "id": "50f2045c-8f86-4edc-8ed1-fc88d75913a0",
       "name": "Freja",
       "originalFilename": "Freja.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "83b66f21-83d3-4a3e-b829-a4f99edfd908"
     },
     {
+      "badge": "308fa25a-4b1c-4acc-bda3-9841df78a640",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "ec714b571394d52d7754dbdc12d91ba3d4c8e19e2872f5f943e517e157345c2e",
-      "icon": "acfa048f-7ebc-4454-bd7a-4e1ce712069b",
+      "icon": "8e152958-e204-495f-adbd-ba8b1e878f05",
       "id": "bc5e96b4-57fa-4712-999e-fca79457470c",
       "name": "Genji",
       "originalFilename": "Genji.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "a689b503-5f69-435f-aa83-f2901488e4ba"
     },
     {
+      "badge": "0303b864-0477-4ec2-93c3-cee3ca0443dc",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "1aa185a85d4c0257158ce30bbcf90a67235c745c83a51569cb9c83d941e11cdb",
-      "icon": "3facbcc1-b045-4a14-9606-816863675738",
+      "icon": "27705887-e717-4a0f-a703-be2fbb88b94b",
       "id": "72ed71c8-3138-4307-8243-f27465bd3b86",
       "name": "Hanzo",
       "originalFilename": "Hanzo.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "44e21be3-3e24-42c2-8d3e-a10bd965248f"
     },
     {
+      "badge": "14f2e360-42a7-40e4-8ffd-b39e8a55404a",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "b700e73e8837ec5c32c357c4483292fd3bf8755f4e7f42b91abb4eaf45456aea",
-      "icon": "258d4cf5-ae14-41ac-b5bf-3877898c88e6",
+      "icon": "f3bc6ea3-f3b0-4ef4-9164-733dbf933e0b",
       "id": "da00ddc6-e625-4aca-ab32-b65e84b53fa2",
       "name": "Hazard",
       "originalFilename": "Hazard.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "d15a7b51-3184-473d-b70b-3db571dfdb20"
     },
     {
+      "badge": "db53ef0b-7ff6-4747-a9fc-4023347ebdb6",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "3d1dcd52e9f33378e52af4f731fea16edb2eea7c71b8b8198ebf8067400e9e9c",
-      "icon": "8163c08a-19f1-47b6-87f9-9a609bc67695",
+      "icon": "d6584340-3a67-472f-b17e-dfed539d4307",
       "id": "6d7ecfb5-a822-4d68-b678-ca10db847aea",
       "name": "Illari",
       "originalFilename": "Illari.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "4aad6ebe-ca6b-4c24-bccc-4dac8172ad44"
     },
     {
+      "badge": "48d127cd-67a4-48a7-8353-05d9693064d9",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bee7ae7bd47e04c6db65a7a0b6bae0b88e4b69010b0573de390b39b11fd020af",
-      "icon": "e18aca1f-dcb7-4571-a53f-a0d608eb6bb3",
+      "icon": "9e3ffd7c-9ce8-4fed-b893-788be6d362d5",
       "id": "648527cd-2fd3-4950-bdf8-5b8ef6e70855",
       "name": "Jetpack Cat",
       "originalFilename": "Jetpack Cat.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "d5289705-b92a-481c-9276-8956efc9aab4"
     },
     {
+      "badge": "37ed48c2-7018-45ba-800e-94a8409dc746",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "121a980dae8349ce740f697b23304efc69c36a47f3e6ad0b5ed575fae02b4bdb",
-      "icon": "550d52ff-0567-4da3-96e4-11a4e0f52c84",
+      "icon": "9b1b7322-1da2-4934-a032-165e29c54108",
       "id": "02455343-0e9d-422c-bfbe-ecc1fff836c1",
       "name": "Junker Queen",
       "originalFilename": "Junker Queen.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "c7debbdc-8526-4344-b9ee-1a0e8e4584c3"
     },
     {
+      "badge": "877ada5f-2f72-43f8-a8de-5965cf469d72",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "50bf8762fad483c8ad5cee19a8929dd45a61557d9ea0ecbe7520429e33482822",
-      "icon": "e36e983e-9dd1-4006-999d-61095195c448",
+      "icon": "05f0463c-1d58-4fbf-92fb-5b3f1f7ab627",
       "id": "9643d49f-6bb2-444c-8885-c62e912a803b",
       "name": "Junkrat",
       "originalFilename": "Junkrat.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "8032fb58-efa4-4759-aa1d-6dcf8e02bc0c"
     },
     {
+      "badge": "34ffaf3d-85cd-4ff8-a065-096a07b546bf",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "d760d08182752b7970849db70b21d2742b30d68a97db6efb4e97f7925bc7f824",
-      "icon": "86b55ca8-d9cb-4b00-bc51-347c3eb2e00f",
+      "icon": "a8a1e03d-d862-4bf9-9810-8c747d41cae4",
       "id": "cd416ef2-8f7d-4f81-bd79-b29d7297ee78",
       "name": "Juno",
       "originalFilename": "Juno.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "73550a99-7be3-4daf-8d53-c0bc6d14e5d0"
     },
     {
+      "badge": "cb7b6d6e-9a59-4806-8cb4-97b232897854",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "23361eaaa374b2f8f61fe284c14c097c5b238ade6d00633ef9e1a52b852440d4",
-      "icon": "4a61b475-a48c-4034-b76a-db4876bcae3d",
+      "icon": "e290b297-2697-406e-b59c-99d2aed1c22d",
       "id": "d5e15d3b-dd3b-4daa-acc6-78525cde1109",
       "name": "Kiriko",
       "originalFilename": "Kiriko.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "37a9a156-2759-4b20-98da-71da30917a6d"
     },
     {
+      "badge": "b8125ba6-c370-451b-bcaa-e546e4ab8bf0",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bc5c51bb8dfe6e7be4705f36d5f6871624a4c136aceaaecf81fcf3c94a1f3b10",
-      "icon": "0cef7aec-141f-41e1-aeab-62f23dba65b8",
+      "icon": "6a13088d-4c1b-4b96-ad4a-1db0d4216616",
       "id": "b605af27-a629-4181-9706-78711d956db7",
       "name": "Lifeweaver",
       "originalFilename": "Lifeweaver.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "da5ac666-ee23-426d-ab24-aafeb64e9a72"
     },
     {
+      "badge": "071e112d-d217-4c07-8c59-ef851572e23b",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "101a23170f5cca1d33e776a9e34139266e42c768160af5f872238ac567ae2c03",
-      "icon": "ca5d7ded-f035-4b60-8cea-02697876a849",
+      "icon": "1baabe25-7b06-4e6c-b75e-da93b49fd662",
       "id": "ca266bd7-5536-4339-8f29-d09ba41069ca",
       "name": "Lucio",
       "originalFilename": "Lucio.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "18e8a9d3-cea0-48ca-af27-328cddf02a1a"
     },
     {
+      "badge": "9438c7bf-b8ed-4341-a710-c2f8952a2655",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a018ddd7b45f85ec2d1f89e953feb2af93d0b484773587be7abba0f6794d0417",
-      "icon": "5c7ee8f9-7146-4316-97f9-6deccc0afb02",
+      "icon": "d5cb21ef-3953-4153-85ed-55d87d65e3d3",
       "id": "89393ab8-a4c8-4dc0-a7c7-b722da73a827",
       "name": "Mauga",
       "originalFilename": "Mauga.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "acd5c341-5058-4ce7-a1e7-08395b04c9d1"
     },
     {
+      "badge": "860ddce3-2f31-464c-9ccd-abb9d142f864",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "5c5ebac31e06687c97b5434b6bbb986ac07de8ead9c484950b349be5fb05d5d2",
-      "icon": "94ffab63-2ae5-472b-9303-f7ae59a686ba",
+      "icon": "72384ca3-3349-45bb-a81e-91a3c5f3cb48",
       "id": "0880fed2-4e38-49e1-8db1-f41d40bbff78",
       "name": "Mei",
       "originalFilename": "Mei.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "895d0f88-7dcf-48dd-aba7-7ea5b321ca9f"
     },
     {
+      "badge": "6054fd99-f691-41c6-bc29-f6271a6d8503",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "43c6b91955d0b5a2818837c1655ab7d89e724f27ad8cd4429570af44dc2d52ef",
-      "icon": "34dc1ef2-a750-4821-82b5-1ec15103301d",
+      "icon": "21f733c1-3a21-4472-a456-344c98b08c84",
       "id": "f0317006-fd8a-441a-af0b-dac76e1b4699",
       "name": "Mercy",
       "originalFilename": "Mercy.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "1afe9f33-529c-4c16-98c6-42fe4a23a63d"
     },
     {
+      "badge": "8bae2146-be91-4085-a7c3-d01ac7e0c11f",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e5618611d95ce17f3d1433e8845f60ba5368a4a028a58e6bfd1c726fb8235895",
-      "icon": "71636ddf-9b8a-4a5b-9456-cc5a73ffa344",
+      "icon": "48748518-6d46-47a0-9eac-09c54ee311cc",
       "id": "a50dfdff-e139-4c08-9faa-78eafedc00de",
       "name": "Mizuki",
       "originalFilename": "Mizuki.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "dd2ec9ef-de1e-43ce-8746-226996365e59"
     },
     {
+      "badge": "dc239663-eaa5-4a05-ad22-ccd49b64bc30",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "7f4ca3b3676460ad5b878b4ecada6f5e639a241cdae90cbeda1bbae840e0e8ca",
-      "icon": "0a5803b2-0a81-4b4c-9b58-cff3e6a5fe2a",
+      "icon": "f02626ba-8a8f-46b6-9472-a096bdd8f1c6",
       "id": "b44e1812-ff4e-4e6b-8e78-d996cc9cd16d",
       "name": "Moira",
       "originalFilename": "Moira.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "4925e701-681e-4eb0-b7bb-c6d3f1fdb020"
     },
     {
+      "badge": "022022f7-5752-4857-a206-f3f25ae1d708",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "912741bed99e4455021e801277cce5ee089319e177f8bb806eb71f76a5c5afcf",
-      "icon": "485e423b-63ca-460d-bd7e-71fe365f1e2e",
+      "icon": "bab90d3c-d7e1-4f68-a693-15c5414fef1d",
       "id": "6eb464b1-188a-460e-b6ec-902268f1660e",
       "name": "Orisa",
       "originalFilename": "Orisa.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "b45b48cc-8665-4ff1-99a5-427dde4cf21f"
     },
     {
+      "badge": "9ba9604b-f646-4673-86c9-2ccb30a32908",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "f5e47cf54f33cc71ea5bdcfaacbe8fdbbed07948153aa8ea6e3aa6598ed4ee43",
-      "icon": "73282cb2-cd8c-4e95-9a2e-a48f394d88ac",
+      "icon": "4db40e9d-cb68-4dcd-b781-103035a32c0c",
       "id": "140e5c7f-f997-4593-ad7b-5073385e1ad9",
       "name": "Pharah",
       "originalFilename": "Pharah.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "c43206aa-202b-43a8-9b9c-e2a25c282662"
     },
     {
+      "badge": "7adb643e-a769-45ee-beb7-6ade21ce166f",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e6309055fdd945211765aba7faf20429ff7244b0a01d7d762b9658bd5a0f6ff8",
-      "icon": "95f2bca9-aead-4909-87d3-987e79abdc1d",
+      "icon": "11cde013-3309-4d15-b356-b0f437f2f2a3",
       "id": "7d0ba350-1190-4857-ab43-435a7fe3c33f",
       "name": "Ramattra",
       "originalFilename": "Ramattra.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "f2ad0c1c-086f-4515-902c-2e8e7c790ebd"
     },
     {
+      "badge": "a642c4c4-48eb-4f85-a1e3-98cc3bc250c7",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "245868b943e596896484a1e21e614782fdd7e5cab766e572cfd085c7b59540aa",
-      "icon": "afc53624-37c7-4ed0-b9bf-94dd6fe2580c",
+      "icon": "b9effa06-c663-48b3-a8b7-237d022c8456",
       "id": "0b137198-c010-4bad-9ac3-b4608f5924b5",
       "name": "Reaper",
       "originalFilename": "Reaper.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "67544368-6356-40cc-a864-f50c37c615ac"
     },
     {
+      "badge": "ed59a79b-63df-46b8-b882-806fb95cf4cc",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a6cab058036a68a6381cda07972bde0be2cf2e3d83ede8bd20390135df49be29",
-      "icon": "24b6c0bd-521e-4434-9c6e-0c146fcf4a21",
+      "icon": "a9710d53-0191-4292-b403-964cfb353ce5",
       "id": "7ff168e1-e6bd-4501-9a36-b9b504deb079",
       "name": "Reinhardt",
       "originalFilename": "Reinhardt.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "b43c16e3-fac9-4f33-a130-c680206348a4"
     },
     {
+      "badge": "8570e72f-f5d3-4ab3-b150-47aee84fea5b",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e509a5c7a15f2af1b4b9eef7a81e6e86ccb8066d3f2e5a10a25f1c585dc6c45a",
-      "icon": "69adb689-5a79-41c5-9575-448bdf354c19",
+      "icon": "5ee47a4c-c41a-45bc-a2eb-009a6a51ca7a",
       "id": "7fc4f43f-341f-43ad-be2c-fbb048767601",
       "name": "Roadhog",
       "originalFilename": "Roadhog.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "c4266a3a-1ee5-4c56-ad51-9d8d1e3eb944"
     },
     {
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a475af5169c600e8b6b73fa6646a310b0b9ceb88f38ccecbc40d42fd166a82f5",
-      "icon": "3d261bc4-2ada-46d1-83b9-0e469fe1f284",
+      "icon": "82c175c8-8250-427f-99c5-fa86458b855f",
       "id": "062e5ec0-5370-48da-a8fa-a8d7c60ea206",
       "name": "Shion",
       "originalFilename": "Shion.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "e0d6f3bc-2636-410c-9d3f-de5b4015752e"
     },
     {
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "f35bd2d982f11ae90e08b89717f5f0ee06afd05200c4831ada42d6cf4331c8a7",
-      "icon": "430bfcce-a668-4e02-8001-bdd2fa347c1b",
+      "icon": "ea694900-87d0-4cce-bfc1-c526c46b4d6d",
       "id": "f215774c-425a-48fa-9d50-1fcb2cec3ad1",
       "name": "Sierra",
       "originalFilename": "Sierra.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "b6138af8-bf6f-4192-afd4-24b1c42b4b4b"
     },
     {
+      "badge": "aa082d3e-9174-4f75-8102-78c95ca015cd",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "0beff7e8e144cc5e2760ab7ce578024bb1a97d8e0d6d4dfcaa5e3e009263c2e0",
-      "icon": "0f83e9a9-1851-446c-9563-45736b5b23a7",
+      "icon": "656b2721-77e4-4abf-8557-f551116642cb",
       "id": "2bc9dd66-82bd-43ad-990e-6dcc6ac2da94",
       "name": "Sigma",
       "originalFilename": "Sigma.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "7e210970-0fa2-492c-b22d-206ed8114146"
     },
     {
+      "badge": "e839237b-c18e-4494-95ab-dbe5b7da92be",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "9cc2d64ca5aab78de1c6b373d2c62192942732e5af5c7bf1455747ee7d946b62",
-      "icon": "ee1f829d-5d67-405f-a39a-7ff2c3526bfc",
+      "icon": "fa4427f7-cd45-42f5-bbf7-e17ed546ed7c",
       "id": "34d6ab44-350f-4b95-8087-e3988460dc33",
       "name": "Sojourn",
       "originalFilename": "Sojourn.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "d737aa75-eaf6-4526-be0c-7a82a18168ce"
     },
     {
+      "badge": "9dfd5902-fd8b-4cdb-95c2-d9bed94983d6",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "40ca74c5d48d4b9967674668b82817c35f0cbde6f2e39ec85326fcdba253d302",
-      "icon": "e052ba12-9075-47bf-a71a-800abcd245a1",
+      "icon": "f5369828-084d-4646-a3c6-7b4c1060dba0",
       "id": "2607acc1-c38c-42ab-b813-ff4c3a83720a",
       "name": "Soldier 76",
       "originalFilename": "Soldier 76.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "51cdc302-01e6-4f14-be70-ecd929acb83c"
     },
     {
+      "badge": "9c8152a7-1eac-4691-90a4-32e35412f028",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "64cff83c9c2a1f5d04d63811a864e5c816022d725f25a7340890e84fa6c752a6",
-      "icon": "e4a6134d-1953-442c-8f56-f2d4967b8e54",
+      "icon": "8d87c746-6a5b-478e-9327-7363f4a02358",
       "id": "13db3b9e-33bc-4912-b6cb-8f9e7b2cbc48",
       "name": "Sombra",
       "originalFilename": "Sombra.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "6a38fb98-0b67-4dc2-8b50-6d04f861716e"
     },
     {
+      "badge": "b10ea6c6-3d37-4b2a-b7e8-03138cd47405",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "184cbb4a9b84d19f358f63dd28c51ca9d595e39ae3def903d471fb973e60fc3c",
-      "icon": "5233da76-09e6-46b2-b51d-78ba7cbeb65e",
+      "icon": "b57b9a48-f595-46a7-9cc0-52fe681a380b",
       "id": "ec41e7af-772e-4962-8daa-9524f11dc276",
       "name": "Symmetra",
       "originalFilename": "Symmetra.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "f69c7468-0574-40f9-9279-8fc28f609ecc"
     },
     {
+      "badge": "d8119dab-f344-443e-a73d-0c56acf9c7b1",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "096722d9ed618f8fe9101d79f4c047613dfff00a59f41e9d6c515ac310e580f0",
-      "icon": "37b4f0fa-7158-4f90-87e6-6439ff15a3dd",
+      "icon": "1cfa437c-48db-48ee-9327-e9c7dd710302",
       "id": "d0417b66-0ef4-4cd5-962d-99bafc0c1156",
       "name": "Torbjorn",
       "originalFilename": "Torbjorn.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "da04b487-c919-45f3-928d-dc96234f8ec4"
     },
     {
+      "badge": "b1f96890-3c39-4e65-9b07-19a3944d12f1",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "2c15589fdad0774b7dfa75ec36c250627c9580986965fdddb6e9dcee59d4aae1",
-      "icon": "b26a4ebf-92ee-4042-ac82-9df5ea75d8ea",
+      "icon": "5d718a1a-86cf-4a60-8285-c92a4499eaf6",
       "id": "8af1f546-abae-4498-887d-cbd87de270c8",
       "name": "Tracer",
       "originalFilename": "Tracer.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "5d25859a-51d4-4b80-9e58-67f9c66e77b6"
     },
     {
+      "badge": "afa13974-393a-4170-9cdf-720ea48f4fd1",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bb32c57ba0605ad359bd6ea4e11bf9702351631c93af8ee05f2003ed65443b77",
-      "icon": "95324291-3730-46ef-8bad-6c2b49253734",
+      "icon": "bbd0ba4e-c94b-4e13-b9bb-791e86d34581",
       "id": "ea3dc793-c0e0-491a-892a-d2df7bda6684",
       "name": "Vendetta",
       "originalFilename": "Vendetta.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "7cf8f07b-e2ce-47df-abde-304440ddcb5e"
     },
     {
+      "badge": "466d9d28-faab-42ef-a623-140b224bbf97",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "91948056448b3f8ecf5888c6eeb89597b72903afc58c560795a347ff307b93ab",
-      "icon": "0bd3c0cf-28dd-4004-b556-f7e257e421c9",
+      "icon": "5cf1a687-493d-454e-b21c-f827c3893ef2",
       "id": "a800af41-174b-4c00-8d19-630389538f11",
       "name": "Venture",
       "originalFilename": "Venture.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "20274ef5-eb0c-4679-aae9-a813804417e0"
     },
     {
+      "badge": "1460f7a8-6db5-4b8e-8122-65528939a95c",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e01f852faccaeed33e90ef4549bd31219f36e99f8370515c64c9404ed1459e03",
-      "icon": "21ceefff-0d17-439d-ac8f-e174d1fc58a1",
+      "icon": "b9788c93-5d48-4e28-8f66-7e0800b0f76e",
       "id": "a8bb02f8-a158-4f95-8459-5f682e601bf1",
       "name": "Widowmaker",
       "originalFilename": "Widowmaker.png",
-      "portrait": null
+      "portrait": null,
+      "role": "damage",
+      "transparent": "8866510b-c962-43e2-8ae7-7aa48569aa98"
     },
     {
+      "badge": "748e0416-e36c-4243-9f87-11f8d38a879a",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "de02fb903902ed998095623ec9c0b105f2519a8e3ceab85d65291cfabb69c6c3",
-      "icon": "fc2d9c04-68e2-431e-acc7-14494b62d933",
+      "icon": "e6a31338-e1be-4ffc-9739-5a57c95755bc",
       "id": "48a150db-c0a5-46f0-b4a6-1bca4b037c88",
       "name": "Winston",
       "originalFilename": "Winston.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "6a3c63bc-3665-4f42-a67d-8728bb184399"
     },
     {
+      "badge": "89b1ef2f-8cc7-4966-8a10-2fb4ae546cfc",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "13050fdefa52f7775f2e0f68f58dd4ce8e98c1b85db41f300cb8b9e78f9d8748",
-      "icon": "5c05e02e-2d31-4347-81a9-ef1ab2c3a2ba",
+      "icon": "da669558-3763-47b7-9ca5-7e8f407c4222",
       "id": "71f28edf-a81f-49bc-a8fd-8fbdcd65abae",
       "name": "Wrecking Ball",
       "originalFilename": "Wrecking Ball.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "027b6d6f-3506-4c69-b7c1-f53664e0c4f4"
     },
     {
+      "badge": "86e52dd5-29ce-49dc-b257-020666f15321",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "eebfb5415c660aef6aad54ec19278a1b0c578155d5c6025066ebdffd61d30268",
-      "icon": "d2e5aab5-108c-4d6d-a45f-b8d53d8d01b8",
+      "icon": "a1c095f9-9f75-4158-b583-5f2304bbba97",
       "id": "aef99f49-85f4-4626-8f92-2e4278789ca2",
       "name": "Wuyang",
       "originalFilename": "Wuyang.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "e2eaf454-c18c-403d-9bc3-2a10afafff9e"
     },
     {
+      "badge": "84c2708a-d296-4c34-939c-bc2eb63d4c60",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "0ae0b1bf097a49a218cc29f261c020fdfd67640cd783830a60254e1bfe661df1",
-      "icon": "51ceabe5-c814-40d3-8fd3-276053fe4961",
+      "icon": "13f6e42f-3c31-4212-891c-63c76b3d9205",
       "id": "09407cab-902c-42c7-bc84-b5968b906e5d",
       "name": "Zarya",
       "originalFilename": "Zarya.png",
-      "portrait": null
+      "portrait": null,
+      "role": "tank",
+      "transparent": "a83b9064-c30b-4d3f-9476-414c3245bb09"
     },
     {
+      "badge": "3ce7c84d-26f1-4422-ac54-b8c563eb3508",
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a98ea8144ba3ec8faa86c6952fae9a316b04aa3cd5b72caaf25bd5a7c6f8cafa",
-      "icon": "52825ee6-7049-431c-b431-fd0cc1aad9ea",
+      "icon": "9af11f27-c0fc-4f3f-9aa0-76efd2a0b597",
       "id": "ec3b0eb4-ef54-4794-a949-22827e58b03e",
       "name": "Zenyatta",
       "originalFilename": "Zenyatta.png",
-      "portrait": null
+      "portrait": null,
+      "role": "support",
+      "transparent": "9ba1860d-279b-45ba-99ee-fac54b4d90c0"
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
+      "gameMode": "7410e158-8a8b-4e85-97fc-f5e7cc94fae0",
       "hash": "064898256f0b625f315371c36dfdba226b36bec10c20c0b700b9cba4d0052581",
       "icon": null,
       "id": "50d60f3b-084f-423d-8017-b5bc60b61efb",
       "name": "Aatlis",
       "originalFilename": "Aatlis.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "8744ee6012ee7ab5094d60d73861597b573b9ec82c581e60a31627928d1089cb",
       "icon": null,
       "id": "bac11360-5216-4843-a7bd-d6eab34d6201",
       "name": "Antarctic Peninsula",
       "originalFilename": "Antarctic Peninsula.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "5770a1c4c5223c5e6fbb5e8ff6999558928648b4c36a1d36326603b554d295be",
       "icon": null,
       "id": "2e0b425f-e277-4aa2-8020-d2ee8cd59600",
       "name": "Blizzard World",
       "originalFilename": "Blizzard World.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "c55a8f55e68f7bab430926163042c61d90d8ee9fc9ce59c92c545c4ac97d8fa7",
       "icon": null,
       "id": "9a49b84c-b1f8-424b-a86d-c017610f0cb9",
       "name": "Busan",
       "originalFilename": "Busan.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "60729c7d7209e16ca03980a3aafedd932c4d8f0c70694c477c06f7ffda581c0b",
       "icon": null,
       "id": "96a63043-3172-4fa0-a275-5b3cdc6d7c3c",
       "name": "Circuit Royal",
       "originalFilename": "Circuit Royal.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
+      "gameMode": "7d91be7f-02e4-4c5e-b843-02944d0b1b87",
       "hash": "982ba0042d05573016ca2c22d43294c8d3c3c1cc29fa8e20e04ea69c9abe5e93",
       "icon": null,
       "id": "93fcf499-c54d-4fec-90fa-1cdbd4e1fe88",
       "name": "Colosseo",
       "originalFilename": "Colosseo.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "eb65a6c27d6bd7eefab1adde959faa6f30a4dd63c02bbddc9a3ca73ee9c915b8",
       "icon": null,
       "id": "4bc6c190-4682-42c6-bc77-7d30d8734db5",
       "name": "Dorado",
       "originalFilename": "Dorado.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "55d4cdc630f546bbd7d3f512d60dd411243ee5a20c8e69136892c6fe9556985a",
       "icon": null,
       "id": "9b6ad6f1-1b07-42a2-a79d-1dd2309e84ed",
       "name": "Eichenwalde",
       "originalFilename": "Eichenwalde.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
+      "gameMode": "7d91be7f-02e4-4c5e-b843-02944d0b1b87",
       "hash": "a14a291f80cd4babc982cd8419ad2c27137ba423bde0b6096363d8d8a798eca7",
       "icon": null,
       "id": "96e11935-ca26-41d0-9e19-6dd675bb3999",
       "name": "Esperanca",
       "originalFilename": "Esperanca.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "973566cf3739b2c82e55f91a64082a6e4c1f2823556324507e3d04906a5114bd",
       "icon": null,
       "id": "21b092dd-de5d-485b-997e-3d4b5ebe0e14",
       "name": "Havana",
       "originalFilename": "Havana.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "5525cfb7431de2adcbc22dc22205aa54f03c6207c1deb8280cc6481a7457888e",
       "icon": null,
       "id": "9e649366-563d-4bbe-aa34-b61ad3ed6bbf",
       "name": "Ilios",
       "originalFilename": "Ilios.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "7d1f92fb3a3569101b1fe9c3ccfc9741b86cbf4be68b3b121dfb70f0f7f57978",
       "icon": null,
       "id": "696ebfe7-c210-45da-9fd9-e1986e276341",
       "name": "Junkertown",
       "originalFilename": "Junkertown.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "542a86b96d5dd0d1ebb09dd9a85c42cd0b4fc40d7472f13c8c531106681904d0",
       "icon": null,
       "id": "246f91be-f1fd-4a76-926e-71988b09632a",
       "name": "Kings Row",
       "originalFilename": "Kings Row.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "c550e9f81e38c3230156a8327427ad163046f49ccdc7a2e674d78325ce48e09c",
       "icon": null,
       "id": "fe7ac659-3bf2-4356-aeaa-f875392879ae",
       "name": "Lijiang Tower",
       "originalFilename": "Lijiang Tower.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "902068b13fd8267f56d2735979551f9952e4d534ac4734bcccd8115b13833119",
       "icon": null,
       "id": "dec3d450-8931-46b6-b75f-165e296ef306",
       "name": "Midtown",
       "originalFilename": "Midtown.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "d8001f02d4fe84c32990a7512e05831605b42efdc503b0f9f5a800cc3461ec07",
       "icon": null,
       "id": "2b72173b-29df-436f-adc7-3ef829fa8906",
       "name": "Neon Junction",
       "originalFilename": "Neon Junction.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "8cbd76114a3f26c6a76405528da255c545bb85eee05a0818e422eebe9d6f74ac",
       "icon": null,
       "id": "8e94fefb-68b3-4f3a-a072-93cf3cb367de",
       "name": "Nepal",
       "originalFilename": "Nepal.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
+      "gameMode": "7410e158-8a8b-4e85-97fc-f5e7cc94fae0",
       "hash": "266f7ed7c286a2b28646772d6e84b3e40bffa4726e5e291c692a9c9a7fa736b1",
       "icon": null,
       "id": "ec8aa77d-d307-41a2-9f30-b6ec8f64e288",
       "name": "New Junk City",
       "originalFilename": "New Junk City.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
+      "gameMode": "7d91be7f-02e4-4c5e-b843-02944d0b1b87",
       "hash": "bc6c684bf993b0f1d94875fc86a0c93976945775cfa45df134bb6af2518a3f20",
       "icon": null,
       "id": "391ac435-a454-4382-978a-2da686d1aa75",
       "name": "New Queen Street",
       "originalFilename": "New Queen Street.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "993a777eebe2356ab8ab4ebbd9e38ba649a0a3b73334d5ecafc18c8142ed0ae2",
       "icon": null,
       "id": "9cdc9043-0c8d-47d9-88bb-c344310abb18",
       "name": "Numbani",
       "originalFilename": "Numbani.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "9185bf1ea427d62fa8adb2c04b13fed3997f7c30914e298f5033f2dbef99e347",
       "icon": null,
       "id": "4a6f4074-51f3-4a93-a3ad-55b3b54e2bac",
       "name": "Oasis",
       "originalFilename": "Oasis.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "98f29da5-9969-4eff-bf48-43b4a3209962",
+      "gameMode": "3ccdd22b-85ef-4a69-9e25-54b7eaddbc17",
       "hash": "a9b25e716b839ad7a903ef622379ae2a24cfa3be1a5585f72d835cded3abccc9",
       "icon": null,
       "id": "3051229d-a735-45d1-bab6-978f5386d056",
       "name": "Paraiso",
       "originalFilename": "Paraiso.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "2e87fa2f41c047afe49edff682ef09e5a36ebd0f44f93c47abf8187eb6d419c1",
       "icon": null,
       "id": "700ae983-9837-4bf3-a034-9bf246077d82",
       "name": "Rialto",
       "originalFilename": "Rialto.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "a0c37587e20b559914f6d6b8a7bbdf4a21513c3dad7a97256c9aa61b22397642",
       "icon": null,
       "id": "2298db76-38cb-4565-9709-65a87b479445",
       "name": "Route 66",
       "originalFilename": "Route 66.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "59d430c4-4c87-4988-bcaf-3bf824416b37",
+      "gameMode": "7d91be7f-02e4-4c5e-b843-02944d0b1b87",
       "hash": "d279c0d4477fc3cc4c6046d9dbe5157e5d4c6c21863871de82abf00816716c92",
       "icon": null,
       "id": "6de8cdc4-1e6e-4451-8fb1-f2d753969e4f",
       "name": "Runasapi",
       "originalFilename": "Runasapi.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "a1113d32-c1d4-44af-a72a-899d7622be79",
+      "gameMode": "141e0df1-cc20-4afb-97c8-9f7578389317",
       "hash": "e7cc4fdf2245694c1e50d09772702c8e42577072a21d7b7106704f630f8e204c",
       "icon": null,
       "id": "d3b44acb-6c04-430e-9f7d-114464434eb0",
       "name": "Samoa",
       "originalFilename": "Samoa.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "804bf28f005fcd3eeb3a17836bdda2868f38ef22be17fff419f0316709bd3ff3",
       "icon": null,
       "id": "55fca3e3-1095-4d16-9c2b-8c2dc663a87e",
       "name": "Shambali Monastery",
       "originalFilename": "Shambali Monastery.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "db6b6346-59f3-45a0-b95f-b90de01021bc",
+      "gameMode": "7410e158-8a8b-4e85-97fc-f5e7cc94fae0",
       "hash": "91545ef665ed69604baa337b378b1f38a6de957346039256e7a7547f28844fe3",
       "icon": null,
       "id": "4e3c4c61-e7be-4275-902c-9ce95d98abc8",
       "name": "Suravasa",
       "originalFilename": "Suravasa.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
+      "badge": null,
       "category": "map",
       "ext": "png",
-      "gameMode": "67411153-7c92-4d76-83e4-7d2493b5dceb",
+      "gameMode": "a2bb13f8-8f0d-42e5-900c-656e9a5c199e",
       "hash": "5b3d9b63036260f8c46f701324ab95df46e9b80c65f27c85fdba81afa49bc163",
       "icon": null,
       "id": "8a70fea7-ea39-427b-a6ef-d43020205248",
       "name": "Watchpoint Gibraltar",
       "originalFilename": "Watchpoint Gibraltar.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "290c1c5f-c2a3-49c5-ba12-40b1e1722558"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86",
       "icon": null,
-      "id": "030a94ac-72d5-4e4f-95e7-3870cbc3c823",
+      "id": "cb51f367-41bf-4a48-b776-f7163d5cd288",
       "name": "Ana ban icon",
       "originalFilename": "Ana.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "290c1c5f-c2a3-49c5-ba12-40b1e1722558"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9d1f618ad36b39e8ddec7963a4b2fd240d4b486bde85c84ea7330da213eed463",
+      "icon": null,
+      "id": "f497c960-1bdb-4602-ba5b-a7d8ec13a84d",
+      "name": "Ana badge",
+      "originalFilename": "Ana.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "290c1c5f-c2a3-49c5-ba12-40b1e1722558"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "e30a048084f91b46d86007bcf9ace44ca21565ee15c4d31e2fdbb04609fe665b",
+      "icon": null,
+      "id": "e40b6c09-f5c1-462f-91f5-29a9ba3ea763",
+      "name": "Ana transparent",
+      "originalFilename": "Ana.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "90cee075-7ad1-45c5-a6e2-0ab3987286b1"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "2c38b41d79a1ce9a08b9ad8eb7edf3ff819bd448af16a5815be8c7fdb7203aa0",
       "icon": null,
-      "id": "460c4402-210e-4d40-af1e-8cf467682aa4",
+      "id": "a6d4f07d-4a1b-44ba-81c3-79ed1272b18f",
       "name": "Anran ban icon",
       "originalFilename": "Anran.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "90cee075-7ad1-45c5-a6e2-0ab3987286b1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4a050b019113d05c91a7b93f9b5006e3ce46dd1ef18a65b3c34bc89e4ebd4422",
+      "icon": null,
+      "id": "e0bd8956-7407-4f41-8d6b-f9ee26e7747d",
+      "name": "Anran badge",
+      "originalFilename": "Anran.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "90cee075-7ad1-45c5-a6e2-0ab3987286b1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "3371af36ae402fb9757232e103d271fd2ce6e67fee2e040fb639c08043afe704",
+      "icon": null,
+      "id": "ce5d4b6a-9599-4f3b-9d51-4f33264bb946",
+      "name": "Anran transparent",
+      "originalFilename": "Anran.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "b34dc698-d6e4-4b81-8f25-d5c48c7cc5ae"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "8dc2a024c9b7d95c7141b2ef065590dbc8d9018d12ad15f76b01923986702228",
       "icon": null,
-      "id": "0b96a16e-101c-46ac-a849-dad467a55174",
+      "id": "16d3f724-8e5c-43d2-b4db-90fc8967030d",
       "name": "Ashe ban icon",
       "originalFilename": "Ashe.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "b34dc698-d6e4-4b81-8f25-d5c48c7cc5ae"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "cc269ef265b5660ebafd62accf96b884e54ac37254ad74ffbccfbe16520719f1",
+      "icon": null,
+      "id": "6aca5407-7463-459e-8ad4-373422f6ed52",
+      "name": "Ashe badge",
+      "originalFilename": "Ashe.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "b34dc698-d6e4-4b81-8f25-d5c48c7cc5ae"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "15fb5a364bc4862186fc150f176bbc43402f129a79bddbf0cdf6c37781fdd05a",
+      "icon": null,
+      "id": "d224ac8c-f077-4148-8ee6-121b95d02665",
+      "name": "Ashe transparent",
+      "originalFilename": "Ashe.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "6ba10afd-83e0-4918-98ad-2082e41c1ea5"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "f979896f74ba22db2a92a85ae1260124ab0a26665957a624365e0f96e5ac5b5c",
       "icon": null,
-      "id": "dde7322f-cfee-4308-87a1-be880df55be2",
+      "id": "a3fdf771-2be5-4a88-bc1a-c48b12ea5759",
       "name": "Baptiste ban icon",
       "originalFilename": "Baptiste.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "6ba10afd-83e0-4918-98ad-2082e41c1ea5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "54ac593a5fd983e24258c9b19b57269b427f86c07345b707ce68d2790908d1f9",
+      "icon": null,
+      "id": "294549cc-28c3-4dca-9c8f-db3eee3eac65",
+      "name": "Baptiste badge",
+      "originalFilename": "Baptiste.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "6ba10afd-83e0-4918-98ad-2082e41c1ea5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "bc4555390b281228006718143391c5ff4fcafd1ae1c22b7920b19f66b325c1a4",
+      "icon": null,
+      "id": "6c0db166-6344-4e93-be21-010585ce5556",
+      "name": "Baptiste transparent",
+      "originalFilename": "Baptiste.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "a269ecf8-8d82-4b22-82e7-c215c77a13a5"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "4d715f722c42215072b5dd0240904aaed7b5285df0b2b082d0a7f1865b5ea992",
       "icon": null,
-      "id": "499bb6a4-54da-47a3-8f2a-8153697b763b",
+      "id": "177d6091-db00-4e0d-860f-022a9e15b477",
       "name": "Bastion ban icon",
       "originalFilename": "Bastion.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "a269ecf8-8d82-4b22-82e7-c215c77a13a5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "52dfe88a32d06aa1e4a3ef66cc774bac76df6e0587e8b539267f6e8aa2a3f4c3",
+      "icon": null,
+      "id": "c0c88d92-019d-4286-a4ac-5b5a6be1d06a",
+      "name": "Bastion badge",
+      "originalFilename": "Bastion.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "a269ecf8-8d82-4b22-82e7-c215c77a13a5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "61b7eaecfab7a03e453f8085c8fd6fa3d3449346d9a1220deb9b56814947ddb3",
+      "icon": null,
+      "id": "70b2b62b-41ec-49f9-baea-cf39cf3f7280",
+      "name": "Bastion transparent",
+      "originalFilename": "Bastion.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "428321ac-f94b-47c4-85b3-f37986d3ef2b"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "48392820c6976ee1cd8dde13e71df85bf15560083ee5c8658fe7c298095d619a",
       "icon": null,
-      "id": "eaf62a30-f9ac-49d9-b612-8f139eecb88e",
+      "id": "b15ea659-b6d5-481e-a6c6-c6dcce2b4296",
       "name": "Brigitte ban icon",
       "originalFilename": "Brigitte.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "428321ac-f94b-47c4-85b3-f37986d3ef2b"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "679e82b9047e68c324c75c71c257da42a240750ed60f6d03ad2029f32f6c2886",
+      "icon": null,
+      "id": "a7e30504-df28-4175-835c-fd198faa5e86",
+      "name": "Brigitte badge",
+      "originalFilename": "Brigitte.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "428321ac-f94b-47c4-85b3-f37986d3ef2b"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "ddfc25ea9af91c88dc9ed842ef178dff2d54773d965d160871e744a007695d94",
+      "icon": null,
+      "id": "a9057a3b-32a7-4bb9-a03f-531bd3bd7b6a",
+      "name": "Brigitte transparent",
+      "originalFilename": "Brigitte.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "02583151-3cb6-45a7-9fa4-e23582c2ac43"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "6cfb48b5597b657c2eafb1277dc5eef4a07eae90c265fcd37ed798189619f0a5",
       "icon": null,
-      "id": "6578b20c-4a8c-47b0-91c7-d312265314b4",
+      "id": "e58d6880-f7cf-4a9b-9ec4-c1f06939a074",
       "name": "Cassidy ban icon",
       "originalFilename": "Cassidy.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "02583151-3cb6-45a7-9fa4-e23582c2ac43"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "3909c0c31c6478625574426284e2e5671eba702ceb9faae7c6489f5ac84879a0",
+      "icon": null,
+      "id": "d2de4b66-3f43-43cf-896d-7078b37884cf",
+      "name": "Cassidy badge",
+      "originalFilename": "Cassidy.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "02583151-3cb6-45a7-9fa4-e23582c2ac43"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "f5860ac8544e2f464586e86b8b5933b7a441bba6671474e1441151d56014ac4a",
+      "icon": null,
+      "id": "cf925ae4-a426-435b-8a9c-3cac17e4279a",
+      "name": "Cassidy transparent",
+      "originalFilename": "Cassidy.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "0ec6a214-ced5-4cee-82f8-5fbd4a55a443"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d",
       "icon": null,
-      "id": "0244f3c3-a252-4539-8ffc-f39a633832fe",
+      "id": "15526bf2-5cc9-4161-95ba-b1f942c2107e",
       "name": "Dmon ban icon",
       "originalFilename": "Dmon.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "0ec6a214-ced5-4cee-82f8-5fbd4a55a443"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "2a368873e33329d05b37b394d7e0629d6a2d03a4a3177f3afa4c28524e9a8ea5",
+      "icon": null,
+      "id": "48712a26-3584-4f28-a334-8be39806962c",
+      "name": "Dmon transparent",
+      "originalFilename": "Dmon.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "4559703c-ce35-4dcd-adc1-09c13d54d7a8"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae",
       "icon": null,
-      "id": "2c97c6de-72c3-42df-9e08-cc9bb77aeddd",
+      "id": "cd1f5948-de54-4b58-8e87-ec0c6de3ed63",
       "name": "Doctrine ban icon",
       "originalFilename": "Doctrine.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "4559703c-ce35-4dcd-adc1-09c13d54d7a8"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9cdce394b3e634afb01a577e81497f00d5eb3c79d841bad85984f1fd90466409",
+      "icon": null,
+      "id": "caabfe7a-31ef-469d-9fd0-b83f4b0553b8",
+      "name": "Doctrine transparent",
+      "originalFilename": "Doctrine.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "08570d88-b3c7-46fa-8a38-b01b3d1396fd"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "1161c112292c56c052c0ae711792fcde06e3251b98bc9709e582dd7585b5dcd6",
       "icon": null,
-      "id": "36c52843-f000-4e76-b65e-a6800724de98",
+      "id": "cdf7f6f7-c6ff-4af4-a3af-0f47190aff70",
       "name": "Domina ban icon",
       "originalFilename": "Domina.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "08570d88-b3c7-46fa-8a38-b01b3d1396fd"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "af5a5d72f7405449ec96869a129a20ba58ee89b24df23f4276ecf43f5cdc287d",
+      "icon": null,
+      "id": "9a6fc000-2aa4-4807-9275-d25bc8584f1b",
+      "name": "Domina badge",
+      "originalFilename": "Domina.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "08570d88-b3c7-46fa-8a38-b01b3d1396fd"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "5001bcccab857e09ee2d144951bf40f20d63eef4409052a45e4af043575fc55c",
+      "icon": null,
+      "id": "47337b54-f8d5-481e-af1f-c12f93c67bd8",
+      "name": "Domina transparent",
+      "originalFilename": "Domina.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "25317c96-0e22-41b9-9340-460de534214d"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "13750471c693c1a360eb19d5ace229c8599a729cd961d72ebee0e157657b7d18",
       "icon": null,
-      "id": "317cc986-26c0-427d-88e2-2cef52eded51",
+      "id": "2dad0acf-4394-467d-82da-345c97caa21d",
       "name": "Doomfist ban icon",
       "originalFilename": "Doomfist.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "25317c96-0e22-41b9-9340-460de534214d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "a9e97d1a83bcc2581ebb824586ed5a50665cc714d210d3298c9b3303de98c4b1",
+      "icon": null,
+      "id": "233c4215-e862-4789-8694-acd90e71231e",
+      "name": "Doomfist badge",
+      "originalFilename": "Doomfist.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "25317c96-0e22-41b9-9340-460de534214d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "db448d24b0ce1c45053c194a4382d69eef58434660f7d4cedd6f2a5010468d02",
+      "icon": null,
+      "id": "f471c2cd-1edb-4301-b556-31e55570cba4",
+      "name": "Doomfist transparent",
+      "originalFilename": "Doomfist.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "86bcbf18-3451-4cac-927c-9fbe700abcf1"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "ca114f72193e4d58a85c087e9409242f1a31e808cf4058678b8cbf767c2a9a0a",
       "icon": null,
-      "id": "b35cb67f-84a7-450e-af48-99363242a898",
+      "id": "15f417c9-24b7-4d58-a81b-8e9b194a5366",
       "name": "Dva ban icon",
       "originalFilename": "Dva.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "86bcbf18-3451-4cac-927c-9fbe700abcf1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b41f1794b493b65a1cf7d71c5bac74c86babad9bac427ecfcbb0b28bc4f2b464",
+      "icon": null,
+      "id": "038cf236-55e1-4882-9313-6d728ad6ec21",
+      "name": "Dva badge",
+      "originalFilename": "Dva.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "86bcbf18-3451-4cac-927c-9fbe700abcf1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "eede5e6264738dec25af65a42b2f5e005f6fed3199c29dba7438a7f9c170aa6d",
+      "icon": null,
+      "id": "00af3d55-c101-4898-84c2-c5ceea7131df",
+      "name": "Dva transparent",
+      "originalFilename": "Dva.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "a2f7a3da-8d7f-4daf-bd7d-5b89c6fb79d8"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "f086bf235cc6b7f138609594218a8385c8e5f6405a39eceb0deb9afb429619fe",
       "icon": null,
-      "id": "fa549552-52a1-4547-82a7-765112042f05",
+      "id": "1839601a-3d46-4550-8bda-d633aa6b39f9",
       "name": "Echo ban icon",
       "originalFilename": "Echo.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "a2f7a3da-8d7f-4daf-bd7d-5b89c6fb79d8"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "28e1cba8ab511402df51152868f4c32fb8bc272f1ad2f040d09fafb1b5708c17",
+      "icon": null,
+      "id": "de6439ae-e907-4109-b0a6-cb06517ba345",
+      "name": "Echo transparent",
+      "originalFilename": "Echo.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "ca3bb398-667c-4d5c-9169-c7135da27d96"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "c51e2f698138861c0e3b6cfab3c3ca9d67fd709be175e7c397aa6f2649712a30",
       "icon": null,
-      "id": "4dea0894-9a5d-4bd0-b4c7-13f2b3b7ee21",
+      "id": "fafb0a20-dcb6-448e-b142-dc1c186e0934",
       "name": "Emre ban icon",
       "originalFilename": "Emre.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "ca3bb398-667c-4d5c-9169-c7135da27d96"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "91b8ca508e166394b47793ec462116f3d509ae6f2670fc4ae65066a6755a33aa",
+      "icon": null,
+      "id": "75aa6e4d-c22c-42d9-a6b1-378c4ab8cc0c",
+      "name": "Emre badge",
+      "originalFilename": "Emre.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "ca3bb398-667c-4d5c-9169-c7135da27d96"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "28d6826d952ebc51c0da77d17671c190d511250688edb6e293dc3603503c7b8c",
+      "icon": null,
+      "id": "9e90336b-6748-440f-b5e2-fdf25200892c",
+      "name": "Emre transparent",
+      "originalFilename": "Emre.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "50f2045c-8f86-4edc-8ed1-fc88d75913a0"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "5d1a515607b70f87fd391d0478fb4d706e31a7aebfbcb0edd2cfce04efad256c",
       "icon": null,
-      "id": "2be81679-e4fe-446d-824d-c6b16c3fb57f",
+      "id": "ef0d07ba-c6fa-4f90-af6a-4748ae5a73f2",
       "name": "Freja ban icon",
       "originalFilename": "Freja.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "50f2045c-8f86-4edc-8ed1-fc88d75913a0"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b06d7957f40e38df3e045e0b80efe72a4fb5f7705bde35aa74968ded472c77c5",
+      "icon": null,
+      "id": "38fe49b1-9b09-4638-a1b3-378793920cb8",
+      "name": "Freja badge",
+      "originalFilename": "Freja.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "50f2045c-8f86-4edc-8ed1-fc88d75913a0"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "0758bdcf96d8bd21cd3534cb317696a489475e00201bb264af4aaaaffefe61b7",
+      "icon": null,
+      "id": "83b66f21-83d3-4a3e-b829-a4f99edfd908",
+      "name": "Freja transparent",
+      "originalFilename": "Freja.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "bc5e96b4-57fa-4712-999e-fca79457470c"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "4edf5ea6d58c449a2aeb619a3fda9fff36a069dfbe4da8bc5d8ec1c758ddb8dc",
       "icon": null,
-      "id": "acfa048f-7ebc-4454-bd7a-4e1ce712069b",
+      "id": "8e152958-e204-495f-adbd-ba8b1e878f05",
       "name": "Genji ban icon",
       "originalFilename": "Genji.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "bc5e96b4-57fa-4712-999e-fca79457470c"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "db14ef77efda8fdbcc1ea862b16c4f715afa98f3f756b8e8b4905961bfc93476",
+      "icon": null,
+      "id": "308fa25a-4b1c-4acc-bda3-9841df78a640",
+      "name": "Genji badge",
+      "originalFilename": "Genji.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "bc5e96b4-57fa-4712-999e-fca79457470c"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "899c114c8525e10997d3e6c6abfa48fe989a4029606903096afeb3b0210e9f95",
+      "icon": null,
+      "id": "a689b503-5f69-435f-aa83-f2901488e4ba",
+      "name": "Genji transparent",
+      "originalFilename": "Genji.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "72ed71c8-3138-4307-8243-f27465bd3b86"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "aecd8fa677f0093344fab7ccb7c37516c764df3f5ff339a5a845a030a27ba7e0",
       "icon": null,
-      "id": "3facbcc1-b045-4a14-9606-816863675738",
+      "id": "27705887-e717-4a0f-a703-be2fbb88b94b",
       "name": "Hanzo ban icon",
       "originalFilename": "Hanzo.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "72ed71c8-3138-4307-8243-f27465bd3b86"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b75b2034f0e151ca8daa5763476567206c1aad84080c6d3b44f23769463bff37",
+      "icon": null,
+      "id": "0303b864-0477-4ec2-93c3-cee3ca0443dc",
+      "name": "Hanzo badge",
+      "originalFilename": "Hanzo.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "72ed71c8-3138-4307-8243-f27465bd3b86"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "217f303b90c4abb4b008f83ed86ac2db5b8ad6cc91fe2dcec1dd6e72e447c5ff",
+      "icon": null,
+      "id": "44e21be3-3e24-42c2-8d3e-a10bd965248f",
+      "name": "Hanzo transparent",
+      "originalFilename": "Hanzo.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "da00ddc6-e625-4aca-ab32-b65e84b53fa2"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "612ae1e6d28125bd4d4d18c2c4e5b004936c094556239ed24a1c0a806410a020",
       "icon": null,
-      "id": "258d4cf5-ae14-41ac-b5bf-3877898c88e6",
+      "id": "f3bc6ea3-f3b0-4ef4-9164-733dbf933e0b",
       "name": "Hazard ban icon",
       "originalFilename": "Hazard.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "da00ddc6-e625-4aca-ab32-b65e84b53fa2"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "bb00e3c3d927bf838b368a4856d60cf860ae00ff93758d86542f2de6a1dccc31",
+      "icon": null,
+      "id": "14f2e360-42a7-40e4-8ffd-b39e8a55404a",
+      "name": "Hazard badge",
+      "originalFilename": "Hazard.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "da00ddc6-e625-4aca-ab32-b65e84b53fa2"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "a6300d4764a6f35c25e48027bb3756902a5720f1d084d6585381a2af61228653",
+      "icon": null,
+      "id": "d15a7b51-3184-473d-b70b-3db571dfdb20",
+      "name": "Hazard transparent",
+      "originalFilename": "Hazard.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "6d7ecfb5-a822-4d68-b678-ca10db847aea"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "5ea986038f9d307bd4613d5e6f2c4c8e7f15f30ceeeabbdd7a06637a38f17e1f",
       "icon": null,
-      "id": "8163c08a-19f1-47b6-87f9-9a609bc67695",
+      "id": "d6584340-3a67-472f-b17e-dfed539d4307",
       "name": "Illari ban icon",
       "originalFilename": "Illari.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "6d7ecfb5-a822-4d68-b678-ca10db847aea"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "268e7273df044246cc5445b0cf7e2d196021f3883c36472c5a22c18a69759086",
+      "icon": null,
+      "id": "db53ef0b-7ff6-4747-a9fc-4023347ebdb6",
+      "name": "Illari badge",
+      "originalFilename": "Illari.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "6d7ecfb5-a822-4d68-b678-ca10db847aea"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "8cb986dd6898694ae877de3b94ce7304124aa020b5186bf9ef0bc0957705be93",
+      "icon": null,
+      "id": "4aad6ebe-ca6b-4c24-bccc-4dac8172ad44",
+      "name": "Illari transparent",
+      "originalFilename": "Illari.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "648527cd-2fd3-4950-bdf8-5b8ef6e70855"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729",
       "icon": null,
-      "id": "e18aca1f-dcb7-4571-a53f-a0d608eb6bb3",
+      "id": "9e3ffd7c-9ce8-4fed-b893-788be6d362d5",
       "name": "Jetpack Cat ban icon",
       "originalFilename": "Jetpack Cat.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "648527cd-2fd3-4950-bdf8-5b8ef6e70855"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "0366d9802d59587c53ff79142c3cdf689898c9de83dd5037bd55bf8e9d06eda7",
+      "icon": null,
+      "id": "48d127cd-67a4-48a7-8353-05d9693064d9",
+      "name": "Jetpack Cat badge",
+      "originalFilename": "Jetpack Cat.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "648527cd-2fd3-4950-bdf8-5b8ef6e70855"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "93532dfb60ad060561989becda4e8baa9682911dec212a806c510ea8077d59cb",
+      "icon": null,
+      "id": "d5289705-b92a-481c-9276-8956efc9aab4",
+      "name": "Jetpack Cat transparent",
+      "originalFilename": "Jetpack Cat.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "02455343-0e9d-422c-bfbe-ecc1fff836c1"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "b4fa5f937fe07ef56c78bca80be9602c062b8d4451692aecff50e2f68c5c6476",
       "icon": null,
-      "id": "550d52ff-0567-4da3-96e4-11a4e0f52c84",
+      "id": "9b1b7322-1da2-4934-a032-165e29c54108",
       "name": "Junker Queen ban icon",
       "originalFilename": "Junker Queen.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "02455343-0e9d-422c-bfbe-ecc1fff836c1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9fcafa31a7094fa1f955dcdc19652f2a7d4f27129a121bb0df284bd4f1b97cd3",
+      "icon": null,
+      "id": "37ed48c2-7018-45ba-800e-94a8409dc746",
+      "name": "Junker Queen badge",
+      "originalFilename": "Junker Queen.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "02455343-0e9d-422c-bfbe-ecc1fff836c1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "01328b93586d7fcb3e5d9b0bad723a5942b0f9542ef0c0b4ecf243dc83c1789f",
+      "icon": null,
+      "id": "c7debbdc-8526-4344-b9ee-1a0e8e4584c3",
+      "name": "Junker Queen transparent",
+      "originalFilename": "Junker Queen.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "9643d49f-6bb2-444c-8885-c62e912a803b"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "037e3df083624e5480f8996821287479a375f62b470572a22773da0eaf9441d0",
       "icon": null,
-      "id": "e36e983e-9dd1-4006-999d-61095195c448",
+      "id": "05f0463c-1d58-4fbf-92fb-5b3f1f7ab627",
       "name": "Junkrat ban icon",
       "originalFilename": "Junkrat.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "9643d49f-6bb2-444c-8885-c62e912a803b"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "162cee6be792f187915f6be84488c04e9f0880ec8d88bdef0abaa3a58ae560f7",
+      "icon": null,
+      "id": "877ada5f-2f72-43f8-a8de-5965cf469d72",
+      "name": "Junkrat badge",
+      "originalFilename": "Junkrat.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "9643d49f-6bb2-444c-8885-c62e912a803b"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "03e33f8d07fb582abdb3f7182e7001fd254c1af18e4075f66c77d1d44b4b6e1a",
+      "icon": null,
+      "id": "8032fb58-efa4-4759-aa1d-6dcf8e02bc0c",
+      "name": "Junkrat transparent",
+      "originalFilename": "Junkrat.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "cd416ef2-8f7d-4f81-bd79-b29d7297ee78"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "585b2d60cbd3c271b6ad5ad0922537af0c6836fab6c89cb9979077f7bb0832b5",
       "icon": null,
-      "id": "86b55ca8-d9cb-4b00-bc51-347c3eb2e00f",
+      "id": "a8a1e03d-d862-4bf9-9810-8c747d41cae4",
       "name": "Juno ban icon",
       "originalFilename": "Juno.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "cd416ef2-8f7d-4f81-bd79-b29d7297ee78"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "8f5a66f5bf248835bef3c6871194c8f447dfdb8fa0a11deb27fda6deb9c5c59c",
+      "icon": null,
+      "id": "34ffaf3d-85cd-4ff8-a065-096a07b546bf",
+      "name": "Juno badge",
+      "originalFilename": "Juno.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "cd416ef2-8f7d-4f81-bd79-b29d7297ee78"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "a9dfe94fea18ac81e4ca7490074d90f92dbbfdf6e5f03ad048b69af2570d3267",
+      "icon": null,
+      "id": "73550a99-7be3-4daf-8d53-c0bc6d14e5d0",
+      "name": "Juno transparent",
+      "originalFilename": "Juno.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "d5e15d3b-dd3b-4daa-acc6-78525cde1109"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "088aff2153bdfa426984b1d5c912f6af0ab313f0865a81be0edd114e9a2f79f9",
       "icon": null,
-      "id": "4a61b475-a48c-4034-b76a-db4876bcae3d",
+      "id": "e290b297-2697-406e-b59c-99d2aed1c22d",
       "name": "Kiriko ban icon",
       "originalFilename": "Kiriko.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "d5e15d3b-dd3b-4daa-acc6-78525cde1109"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "f11a11e40d017b4f8fc1d6f2417fe6064d26957798f40b8c80ec6a3d7c57b55d",
+      "icon": null,
+      "id": "cb7b6d6e-9a59-4806-8cb4-97b232897854",
+      "name": "Kiriko badge",
+      "originalFilename": "Kiriko.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "d5e15d3b-dd3b-4daa-acc6-78525cde1109"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "40c69c8e9df823d1d7e7602c1ea55655cf99d89230ccd6a2a9acf66fb338ad9c",
+      "icon": null,
+      "id": "37a9a156-2759-4b20-98da-71da30917a6d",
+      "name": "Kiriko transparent",
+      "originalFilename": "Kiriko.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "b605af27-a629-4181-9706-78711d956db7"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "39d4514f1b858bc228035b09d5a74ed41f8eeefc9a0d1873570b216ba04334df",
       "icon": null,
-      "id": "0cef7aec-141f-41e1-aeab-62f23dba65b8",
+      "id": "6a13088d-4c1b-4b96-ad4a-1db0d4216616",
       "name": "Lifeweaver ban icon",
       "originalFilename": "Lifeweaver.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "b605af27-a629-4181-9706-78711d956db7"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "69d42db30f475c9c10f2a7d1adf3898476b798596b90abc8074742da43dd558b",
+      "icon": null,
+      "id": "b8125ba6-c370-451b-bcaa-e546e4ab8bf0",
+      "name": "Lifeweaver badge",
+      "originalFilename": "Lifeweaver.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "b605af27-a629-4181-9706-78711d956db7"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "3fbb3349ae79bef1a8beaf730cad61e99989f46b693efc2d9d291aaa4984eb49",
+      "icon": null,
+      "id": "da5ac666-ee23-426d-ab24-aafeb64e9a72",
+      "name": "Lifeweaver transparent",
+      "originalFilename": "Lifeweaver.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "ca266bd7-5536-4339-8f29-d09ba41069ca"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "7fc54a1056e11892e1f5366fc15ad50e0e4b4691dedb58ee25da6ee853f3408e",
       "icon": null,
-      "id": "ca5d7ded-f035-4b60-8cea-02697876a849",
+      "id": "1baabe25-7b06-4e6c-b75e-da93b49fd662",
       "name": "Lucio ban icon",
       "originalFilename": "Lucio.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "ca266bd7-5536-4339-8f29-d09ba41069ca"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4eb35d53584e3989d647e1742861115bd508b3aa9456f682ecb4bf37f092a0d5",
+      "icon": null,
+      "id": "071e112d-d217-4c07-8c59-ef851572e23b",
+      "name": "Lucio badge",
+      "originalFilename": "Lucio.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "ca266bd7-5536-4339-8f29-d09ba41069ca"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "7fad5c654098126874467ce2ca8b237229c47b18543afb0a80b932738c5d6d76",
+      "icon": null,
+      "id": "18e8a9d3-cea0-48ca-af27-328cddf02a1a",
+      "name": "Lucio transparent",
+      "originalFilename": "Lucio.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "89393ab8-a4c8-4dc0-a7c7-b722da73a827"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "9ee3f5a62893091d575ec0a0d66df878597086374202c6fc7da2d63320a7d02e",
       "icon": null,
-      "id": "5c7ee8f9-7146-4316-97f9-6deccc0afb02",
+      "id": "d5cb21ef-3953-4153-85ed-55d87d65e3d3",
       "name": "Mauga ban icon",
       "originalFilename": "Mauga.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "89393ab8-a4c8-4dc0-a7c7-b722da73a827"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "33a5d79cd2da2b7fd0ef8f0350c0360dcec4b1f5206346f13a92a298c43c2de0",
+      "icon": null,
+      "id": "9438c7bf-b8ed-4341-a710-c2f8952a2655",
+      "name": "Mauga badge",
+      "originalFilename": "Mauga.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "89393ab8-a4c8-4dc0-a7c7-b722da73a827"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "acd5aa6d51307361e615b30b9cf2b47322957dc7b678967babbda0f477fee972",
+      "icon": null,
+      "id": "acd5c341-5058-4ce7-a1e7-08395b04c9d1",
+      "name": "Mauga transparent",
+      "originalFilename": "Mauga.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "0880fed2-4e38-49e1-8db1-f41d40bbff78"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "1533fcb0ee1d3f9586f84b4067c6f63eca3322c1c661f69bfb41cd9e4f4bcc11",
       "icon": null,
-      "id": "94ffab63-2ae5-472b-9303-f7ae59a686ba",
+      "id": "72384ca3-3349-45bb-a81e-91a3c5f3cb48",
       "name": "Mei ban icon",
       "originalFilename": "Mei.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "0880fed2-4e38-49e1-8db1-f41d40bbff78"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "837b30294794d84d8921860542e59828d93645825600a2bfb1a8faf5fea1e0e6",
+      "icon": null,
+      "id": "860ddce3-2f31-464c-9ccd-abb9d142f864",
+      "name": "Mei badge",
+      "originalFilename": "Mei.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "0880fed2-4e38-49e1-8db1-f41d40bbff78"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4aeb4bf35e8cf1b290839af0b0ecd6aa34bb55d58a9d5c0cfd2293d7bb520c2e",
+      "icon": null,
+      "id": "895d0f88-7dcf-48dd-aba7-7ea5b321ca9f",
+      "name": "Mei transparent",
+      "originalFilename": "Mei.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "f0317006-fd8a-441a-af0b-dac76e1b4699"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "2508ddd39a178d5f6ae993ab43eeb3e7961e5a54a9507e6ae347381193f28943",
       "icon": null,
-      "id": "34dc1ef2-a750-4821-82b5-1ec15103301d",
+      "id": "21f733c1-3a21-4472-a456-344c98b08c84",
       "name": "Mercy ban icon",
       "originalFilename": "Mercy.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "f0317006-fd8a-441a-af0b-dac76e1b4699"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "ba0850bba467f14e1e5059f974c0981b34080ee1ae1849f4bfda2de0bea6a29b",
+      "icon": null,
+      "id": "6054fd99-f691-41c6-bc29-f6271a6d8503",
+      "name": "Mercy badge",
+      "originalFilename": "Mercy.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "f0317006-fd8a-441a-af0b-dac76e1b4699"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "8d513c949a2af7103e4a477ff04958035a9bfdc9c0abe57e5a114930d3df1158",
+      "icon": null,
+      "id": "1afe9f33-529c-4c16-98c6-42fe4a23a63d",
+      "name": "Mercy transparent",
+      "originalFilename": "Mercy.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "a50dfdff-e139-4c08-9faa-78eafedc00de"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a2c8dd2fdc10e5b5110062e2bd5dc3fc56e692a812f35f0fcea3b580fd01f578",
       "icon": null,
-      "id": "71636ddf-9b8a-4a5b-9456-cc5a73ffa344",
+      "id": "48748518-6d46-47a0-9eac-09c54ee311cc",
       "name": "Mizuki ban icon",
       "originalFilename": "Mizuki.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "a50dfdff-e139-4c08-9faa-78eafedc00de"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "7d154a6455ff02031654706b0d1845c5e1e90d31230e133b70d230f614bcc8d4",
+      "icon": null,
+      "id": "8bae2146-be91-4085-a7c3-d01ac7e0c11f",
+      "name": "Mizuki badge",
+      "originalFilename": "Mizuki.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "a50dfdff-e139-4c08-9faa-78eafedc00de"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b23527a87fb67805c3fcb61684a1c5085bc322ff637293c6135b69cd27d48a11",
+      "icon": null,
+      "id": "dd2ec9ef-de1e-43ce-8746-226996365e59",
+      "name": "Mizuki transparent",
+      "originalFilename": "Mizuki.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "b44e1812-ff4e-4e6b-8e78-d996cc9cd16d"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "000beeb5606e01497897fa9210dd3b1e78e1159ebfd8afdc9e989047d7d3d08f",
       "icon": null,
-      "id": "0a5803b2-0a81-4b4c-9b58-cff3e6a5fe2a",
+      "id": "f02626ba-8a8f-46b6-9472-a096bdd8f1c6",
       "name": "Moira ban icon",
       "originalFilename": "Moira.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "b44e1812-ff4e-4e6b-8e78-d996cc9cd16d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "608708216a3f7ab563630097216372351875826bf3d78a34d8997bcb7b143bad",
+      "icon": null,
+      "id": "dc239663-eaa5-4a05-ad22-ccd49b64bc30",
+      "name": "Moira badge",
+      "originalFilename": "Moira.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "b44e1812-ff4e-4e6b-8e78-d996cc9cd16d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "a65e2b973869d40b8d5f857773f4de4355274c6c9a0a776cfc9c18dd82a2687f",
+      "icon": null,
+      "id": "4925e701-681e-4eb0-b7bb-c6d3f1fdb020",
+      "name": "Moira transparent",
+      "originalFilename": "Moira.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "6eb464b1-188a-460e-b6ec-902268f1660e"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "71e96294617e81051d120b5d04b491bb1ea40e2933da44d6631aae149aac411d",
       "icon": null,
-      "id": "485e423b-63ca-460d-bd7e-71fe365f1e2e",
+      "id": "bab90d3c-d7e1-4f68-a693-15c5414fef1d",
       "name": "Orisa ban icon",
       "originalFilename": "Orisa.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "6eb464b1-188a-460e-b6ec-902268f1660e"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "861db41affb026d6caae1f9c7711a317e2c98598c37f5f0468c078a425fbc50c",
+      "icon": null,
+      "id": "022022f7-5752-4857-a206-f3f25ae1d708",
+      "name": "Orisa badge",
+      "originalFilename": "Orisa.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "6eb464b1-188a-460e-b6ec-902268f1660e"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "fa5cf4d57a52f8fcf76b13f66efbd01239538d1e34cd10436ee32f214c5bc3ad",
+      "icon": null,
+      "id": "b45b48cc-8665-4ff1-99a5-427dde4cf21f",
+      "name": "Orisa transparent",
+      "originalFilename": "Orisa.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "140e5c7f-f997-4593-ad7b-5073385e1ad9"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "f8261595eca3e43e3b37cadb8161902cc416e38b7e0caa855f4555001156d814",
       "icon": null,
-      "id": "73282cb2-cd8c-4e95-9a2e-a48f394d88ac",
+      "id": "4db40e9d-cb68-4dcd-b781-103035a32c0c",
       "name": "Pharah ban icon",
       "originalFilename": "Pharah.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "140e5c7f-f997-4593-ad7b-5073385e1ad9"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "69ee8a21bac2b449063473f5e4333c99555aeaf3ff9ec5a20782c82e381f07e6",
+      "icon": null,
+      "id": "9ba9604b-f646-4673-86c9-2ccb30a32908",
+      "name": "Pharah badge",
+      "originalFilename": "Pharah.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "140e5c7f-f997-4593-ad7b-5073385e1ad9"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "be853b7482cf7aa6ef3ed5398343896df7f743860f41f998dc5df2d03b4e810b",
+      "icon": null,
+      "id": "c43206aa-202b-43a8-9b9c-e2a25c282662",
+      "name": "Pharah transparent",
+      "originalFilename": "Pharah.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "7d0ba350-1190-4857-ab43-435a7fe3c33f"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "3e0367155e1940a24da076c6f1f065aacede88dbc323631491aa0cd5a51e0b66",
       "icon": null,
-      "id": "95f2bca9-aead-4909-87d3-987e79abdc1d",
+      "id": "11cde013-3309-4d15-b356-b0f437f2f2a3",
       "name": "Ramattra ban icon",
       "originalFilename": "Ramattra.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "7d0ba350-1190-4857-ab43-435a7fe3c33f"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "41f32dd53bb6628129c255050a4ba3c07107489f4b125909584b9b050799a552",
+      "icon": null,
+      "id": "7adb643e-a769-45ee-beb7-6ade21ce166f",
+      "name": "Ramattra badge",
+      "originalFilename": "Ramattra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "7d0ba350-1190-4857-ab43-435a7fe3c33f"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "8f0a86be63129f34ec6bd01ed16a947330942565a523863d936a709de9445e63",
+      "icon": null,
+      "id": "f2ad0c1c-086f-4515-902c-2e8e7c790ebd",
+      "name": "Ramattra transparent",
+      "originalFilename": "Ramattra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "0b137198-c010-4bad-9ac3-b4608f5924b5"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "2edb9af69d987bb503cd31f7013ae693640e692b321a73d175957b9e64394f40",
       "icon": null,
-      "id": "afc53624-37c7-4ed0-b9bf-94dd6fe2580c",
+      "id": "b9effa06-c663-48b3-a8b7-237d022c8456",
       "name": "Reaper ban icon",
       "originalFilename": "Reaper.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "0b137198-c010-4bad-9ac3-b4608f5924b5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "83b36954b8c5ad0edce05a9df784b40ac72fd2ba7947d11c0c406036a7847db5",
+      "icon": null,
+      "id": "a642c4c4-48eb-4f85-a1e3-98cc3bc250c7",
+      "name": "Reaper badge",
+      "originalFilename": "Reaper.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "0b137198-c010-4bad-9ac3-b4608f5924b5"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "de461d58f040e08d5d1a05bde27a5d8a5ab97d55e2e1fec33ccfa5dc5985aad9",
+      "icon": null,
+      "id": "67544368-6356-40cc-a864-f50c37c615ac",
+      "name": "Reaper transparent",
+      "originalFilename": "Reaper.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "7ff168e1-e6bd-4501-9a36-b9b504deb079"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "490d2f79f8547d6e364306af60c8184fb8024b8e55809e4cc501126109981a65",
       "icon": null,
-      "id": "24b6c0bd-521e-4434-9c6e-0c146fcf4a21",
+      "id": "a9710d53-0191-4292-b403-964cfb353ce5",
       "name": "Reinhardt ban icon",
       "originalFilename": "Reinhardt.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "7ff168e1-e6bd-4501-9a36-b9b504deb079"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "97fbad00c25ff75cb0cfda116d840fd173b9865c025e6d7f74d77d03386ed3da",
+      "icon": null,
+      "id": "ed59a79b-63df-46b8-b882-806fb95cf4cc",
+      "name": "Reinhardt badge",
+      "originalFilename": "Reinhardt.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "7ff168e1-e6bd-4501-9a36-b9b504deb079"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "756cdfaffbaecbc5739389c0c671b765d002681a1c99423103a9ac383af4b81c",
+      "icon": null,
+      "id": "b43c16e3-fac9-4f33-a130-c680206348a4",
+      "name": "Reinhardt transparent",
+      "originalFilename": "Reinhardt.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "7fc4f43f-341f-43ad-be2c-fbb048767601"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "72e02e747b66b61fcbc02d35d350770b3ec7cbaabd0a7ca17c0d82743d43a7e8",
       "icon": null,
-      "id": "69adb689-5a79-41c5-9575-448bdf354c19",
+      "id": "5ee47a4c-c41a-45bc-a2eb-009a6a51ca7a",
       "name": "Roadhog ban icon",
       "originalFilename": "Roadhog.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "7fc4f43f-341f-43ad-be2c-fbb048767601"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "734d9e899aad3b0c5b826ee4a34da0307426e82af0aa9079adabe7a33bb438b6",
+      "icon": null,
+      "id": "8570e72f-f5d3-4ab3-b150-47aee84fea5b",
+      "name": "Roadhog badge",
+      "originalFilename": "Roadhog.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "7fc4f43f-341f-43ad-be2c-fbb048767601"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "649039461db0e7fe9db139a6a50074fa91297b4957a0deec882c7b6e90ef488b",
+      "icon": null,
+      "id": "c4266a3a-1ee5-4c56-ad51-9d8d1e3eb944",
+      "name": "Roadhog transparent",
+      "originalFilename": "Roadhog.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "062e5ec0-5370-48da-a8fa-a8d7c60ea206"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5",
       "icon": null,
-      "id": "3d261bc4-2ada-46d1-83b9-0e469fe1f284",
+      "id": "82c175c8-8250-427f-99c5-fa86458b855f",
       "name": "Shion ban icon",
       "originalFilename": "Shion.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "062e5ec0-5370-48da-a8fa-a8d7c60ea206"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b53fce956d5c4efe191097403efe7b0a6f1a8315fa512206cc0e06726c2457b6",
+      "icon": null,
+      "id": "e0d6f3bc-2636-410c-9d3f-de5b4015752e",
+      "name": "Shion transparent",
+      "originalFilename": "Shion.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "f215774c-425a-48fa-9d50-1fcb2cec3ad1"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a",
       "icon": null,
-      "id": "430bfcce-a668-4e02-8001-bdd2fa347c1b",
+      "id": "ea694900-87d0-4cce-bfc1-c526c46b4d6d",
       "name": "Sierra ban icon",
       "originalFilename": "Sierra.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "f215774c-425a-48fa-9d50-1fcb2cec3ad1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b94c9bdb0f70189c165d019a128475f334826210c746157bab547e14fda5a9dc",
+      "icon": null,
+      "id": "b6138af8-bf6f-4192-afd4-24b1c42b4b4b",
+      "name": "Sierra transparent",
+      "originalFilename": "Sierra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "2bc9dd66-82bd-43ad-990e-6dcc6ac2da94"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "cd7a4c0a0df8924afb2c9f6df864ed040f20250440c36ca2eb634acf6609c5e4",
       "icon": null,
-      "id": "0f83e9a9-1851-446c-9563-45736b5b23a7",
+      "id": "656b2721-77e4-4abf-8557-f551116642cb",
       "name": "Sigma ban icon",
       "originalFilename": "Sigma.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "2bc9dd66-82bd-43ad-990e-6dcc6ac2da94"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "d5cc40e56dfab9601812ca723f2c983d151d786e055aa86c83ddb87ba38a39b7",
+      "icon": null,
+      "id": "aa082d3e-9174-4f75-8102-78c95ca015cd",
+      "name": "Sigma badge",
+      "originalFilename": "Sigma.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "2bc9dd66-82bd-43ad-990e-6dcc6ac2da94"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "377463152fd8a39a40b5fce17f1b39ea808f33d2b80eaee97d7d10197af12ec1",
+      "icon": null,
+      "id": "7e210970-0fa2-492c-b22d-206ed8114146",
+      "name": "Sigma transparent",
+      "originalFilename": "Sigma.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "34d6ab44-350f-4b95-8087-e3988460dc33"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a53bf7ad9d2f33aaf9199a00989f86d4ba1f67c281ba550312c7d96e70fec4ea",
       "icon": null,
-      "id": "ee1f829d-5d67-405f-a39a-7ff2c3526bfc",
+      "id": "fa4427f7-cd45-42f5-bbf7-e17ed546ed7c",
       "name": "Sojourn ban icon",
       "originalFilename": "Sojourn.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "34d6ab44-350f-4b95-8087-e3988460dc33"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "f72727e4477531727782041500a490ec1ae6742afe3fba96f1d38f493ff94a35",
+      "icon": null,
+      "id": "e839237b-c18e-4494-95ab-dbe5b7da92be",
+      "name": "Sojourn badge",
+      "originalFilename": "Sojourn.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "34d6ab44-350f-4b95-8087-e3988460dc33"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "868a50aad8c8b07e8142cc5f34bae31cd1c257f13ffe19340ac54ac20637b203",
+      "icon": null,
+      "id": "d737aa75-eaf6-4526-be0c-7a82a18168ce",
+      "name": "Sojourn transparent",
+      "originalFilename": "Sojourn.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "2607acc1-c38c-42ab-b813-ff4c3a83720a"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "20b4ef00ed05d6dba75df228241ed528df7b6c9556f04c8070bad1e2f89e0ff5",
       "icon": null,
-      "id": "e052ba12-9075-47bf-a71a-800abcd245a1",
+      "id": "f5369828-084d-4646-a3c6-7b4c1060dba0",
       "name": "Soldier 76 ban icon",
       "originalFilename": "Soldier 76.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "2607acc1-c38c-42ab-b813-ff4c3a83720a"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "265359fc8923388daec2b3c2aa7da4c48110b6055dfc6f2bd1e034a103f7b14c",
+      "icon": null,
+      "id": "9dfd5902-fd8b-4cdb-95c2-d9bed94983d6",
+      "name": "Soldier 76 badge",
+      "originalFilename": "Soldier 76.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "2607acc1-c38c-42ab-b813-ff4c3a83720a"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "3f36af2d70fa0784916593ceb9be0a003a1f68f2ad792c67a90106c6ca34da29",
+      "icon": null,
+      "id": "51cdc302-01e6-4f14-be70-ecd929acb83c",
+      "name": "Soldier 76 transparent",
+      "originalFilename": "Soldier 76.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "13db3b9e-33bc-4912-b6cb-8f9e7b2cbc48"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bca8532688f01b071806063b9472f1c0f9fc9c7948e6b59e210006e69cec9022",
       "icon": null,
-      "id": "e4a6134d-1953-442c-8f56-f2d4967b8e54",
+      "id": "8d87c746-6a5b-478e-9327-7363f4a02358",
       "name": "Sombra ban icon",
       "originalFilename": "Sombra.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "13db3b9e-33bc-4912-b6cb-8f9e7b2cbc48"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "793bc7b912288b72f524c6326ae73e9f272f3a5ba35002c05bbab07911b95c72",
+      "icon": null,
+      "id": "9c8152a7-1eac-4691-90a4-32e35412f028",
+      "name": "Sombra badge",
+      "originalFilename": "Sombra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "13db3b9e-33bc-4912-b6cb-8f9e7b2cbc48"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9dd252f4bafc513a04b1cd2a4cace00ce5f60ec99b2890d5ccb378f75bca3916",
+      "icon": null,
+      "id": "6a38fb98-0b67-4dc2-8b50-6d04f861716e",
+      "name": "Sombra transparent",
+      "originalFilename": "Sombra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "ec41e7af-772e-4962-8daa-9524f11dc276"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "7f2024c5387c9d76d944a5db021c2774d1e9d7cbf39e9b6a35b364d38ea250ac",
       "icon": null,
-      "id": "5233da76-09e6-46b2-b51d-78ba7cbeb65e",
+      "id": "b57b9a48-f595-46a7-9cc0-52fe681a380b",
       "name": "Symmetra ban icon",
       "originalFilename": "Symmetra.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "ec41e7af-772e-4962-8daa-9524f11dc276"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "fd62f6581c239c6e4c51f66f7b2a73671011e6b5f2a84ec5d9745cc8de0361e4",
+      "icon": null,
+      "id": "b10ea6c6-3d37-4b2a-b7e8-03138cd47405",
+      "name": "Symmetra badge",
+      "originalFilename": "Symmetra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "ec41e7af-772e-4962-8daa-9524f11dc276"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "5610be024eee5053a60def6fd6b0f9a935c97796ee0ed8c9b7fa4d3ac8d55cd1",
+      "icon": null,
+      "id": "f69c7468-0574-40f9-9279-8fc28f609ecc",
+      "name": "Symmetra transparent",
+      "originalFilename": "Symmetra.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "d0417b66-0ef4-4cd5-962d-99bafc0c1156"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "1309ab1add1cc19189a2c8bc7b1471f88efa1073e9705d2397fdb37d45707d01",
       "icon": null,
-      "id": "37b4f0fa-7158-4f90-87e6-6439ff15a3dd",
+      "id": "1cfa437c-48db-48ee-9327-e9c7dd710302",
       "name": "Torbjorn ban icon",
       "originalFilename": "Torbjorn.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "d0417b66-0ef4-4cd5-962d-99bafc0c1156"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "281bbd168e781da3abf004e6fbb1cc31d6038d372fc6900d8379254347fdad46",
+      "icon": null,
+      "id": "d8119dab-f344-443e-a73d-0c56acf9c7b1",
+      "name": "Torbjorn badge",
+      "originalFilename": "Torbjorn.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "d0417b66-0ef4-4cd5-962d-99bafc0c1156"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "24c83c230f42fc6f5a09684f41662827319d3ac9acdfb915e363cca901833195",
+      "icon": null,
+      "id": "da04b487-c919-45f3-928d-dc96234f8ec4",
+      "name": "Torbjorn transparent",
+      "originalFilename": "Torbjorn.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "8af1f546-abae-4498-887d-cbd87de270c8"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a66413200e934da19540afac965cfe8a2de4ada593d9a52d53108bb28e8bbc9c",
       "icon": null,
-      "id": "b26a4ebf-92ee-4042-ac82-9df5ea75d8ea",
+      "id": "5d718a1a-86cf-4a60-8285-c92a4499eaf6",
       "name": "Tracer ban icon",
       "originalFilename": "Tracer.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "8af1f546-abae-4498-887d-cbd87de270c8"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "24dd8fcfefc362e71dc6d0eded04133114c398d65770a1fda3b9b1ce89120055",
+      "icon": null,
+      "id": "b1f96890-3c39-4e65-9b07-19a3944d12f1",
+      "name": "Tracer badge",
+      "originalFilename": "Tracer.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "8af1f546-abae-4498-887d-cbd87de270c8"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "f2bced3e7f9afeef6c26fd10da28180aeac19a5715749eb7b1c03a5fd69a8772",
+      "icon": null,
+      "id": "5d25859a-51d4-4b80-9e58-67f9c66e77b6",
+      "name": "Tracer transparent",
+      "originalFilename": "Tracer.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "ea3dc793-c0e0-491a-892a-d2df7bda6684"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "c7188d65ffcca874cb319c6e869d9914c30a137fc122eac8e9a1dedb72e6e9e6",
       "icon": null,
-      "id": "95324291-3730-46ef-8bad-6c2b49253734",
+      "id": "bbd0ba4e-c94b-4e13-b9bb-791e86d34581",
       "name": "Vendetta ban icon",
       "originalFilename": "Vendetta.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "ea3dc793-c0e0-491a-892a-d2df7bda6684"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "0624e45aac7c20ecd73b01a28d9002e630f838d26582da47ca69ccbceb60e4d3",
+      "icon": null,
+      "id": "afa13974-393a-4170-9cdf-720ea48f4fd1",
+      "name": "Vendetta badge",
+      "originalFilename": "Vendetta.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "ea3dc793-c0e0-491a-892a-d2df7bda6684"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9fd1d80426b1a075dce6d400a8ad7e13eb31fb44ea052836f8d748e50afe558c",
+      "icon": null,
+      "id": "7cf8f07b-e2ce-47df-abde-304440ddcb5e",
+      "name": "Vendetta transparent",
+      "originalFilename": "Vendetta.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "a800af41-174b-4c00-8d19-630389538f11"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a0c79b139d92509cade3d9086210793da0573305ea101f7e4f1f724ec6b30f6d",
       "icon": null,
-      "id": "0bd3c0cf-28dd-4004-b556-f7e257e421c9",
+      "id": "5cf1a687-493d-454e-b21c-f827c3893ef2",
       "name": "Venture ban icon",
       "originalFilename": "Venture.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "a800af41-174b-4c00-8d19-630389538f11"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "9f2deaf77532cbe9edc03de06352abf8c1a54fc9638be6bf9b2a1f4c47a52262",
+      "icon": null,
+      "id": "466d9d28-faab-42ef-a623-140b224bbf97",
+      "name": "Venture badge",
+      "originalFilename": "Venture.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "a800af41-174b-4c00-8d19-630389538f11"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4f360b657c61e3020a70a46fc302ecff2b8b04856d5cb9610afa77a347b998ad",
+      "icon": null,
+      "id": "20274ef5-eb0c-4679-aae9-a813804417e0",
+      "name": "Venture transparent",
+      "originalFilename": "Venture.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "a8bb02f8-a158-4f95-8459-5f682e601bf1"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "a714f1cb33cc91c6b5b3e89ffe7e325b99e7c89cc8e8feced594f81305147efe",
       "icon": null,
-      "id": "21ceefff-0d17-439d-ac8f-e174d1fc58a1",
+      "id": "b9788c93-5d48-4e28-8f66-7e0800b0f76e",
       "name": "Widowmaker ban icon",
       "originalFilename": "Widowmaker.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "a8bb02f8-a158-4f95-8459-5f682e601bf1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4147faa7c31fa3c9a0f4c799b9776dd7585812f7bfaa88f2f1758c542e712a11",
+      "icon": null,
+      "id": "1460f7a8-6db5-4b8e-8122-65528939a95c",
+      "name": "Widowmaker badge",
+      "originalFilename": "Widowmaker.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "a8bb02f8-a158-4f95-8459-5f682e601bf1"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "4b61fa95cb84e4f7893fa3231fe408c282caa7910d2e9c09a56d0f2a82d52b4e",
+      "icon": null,
+      "id": "8866510b-c962-43e2-8ae7-7aa48569aa98",
+      "name": "Widowmaker transparent",
+      "originalFilename": "Widowmaker.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "48a150db-c0a5-46f0-b4a6-1bca4b037c88"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "bd9c8e634d89488459dfc1aeb21b602fa5c39aa05601a4167682f3a3fed4e0ee",
       "icon": null,
-      "id": "fc2d9c04-68e2-431e-acc7-14494b62d933",
+      "id": "e6a31338-e1be-4ffc-9739-5a57c95755bc",
       "name": "Winston ban icon",
       "originalFilename": "Winston.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "48a150db-c0a5-46f0-b4a6-1bca4b037c88"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "eb03d8671ca133f3a4a45eba47238096da8eeb835be6682a9c846d1994bad148",
+      "icon": null,
+      "id": "748e0416-e36c-4243-9f87-11f8d38a879a",
+      "name": "Winston badge",
+      "originalFilename": "Winston.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "48a150db-c0a5-46f0-b4a6-1bca4b037c88"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "1b392b81fcc7015b701c145aaa16a0d41ffe39f57e78613fdde1a2546d8b6db2",
+      "icon": null,
+      "id": "6a3c63bc-3665-4f42-a67d-8728bb184399",
+      "name": "Winston transparent",
+      "originalFilename": "Winston.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "71f28edf-a81f-49bc-a8fd-8fbdcd65abae"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "5c18e39ce567ee8a84078f775b9f76a2ba891de601c059a3d2b46b61ae4afb42",
       "icon": null,
-      "id": "5c05e02e-2d31-4347-81a9-ef1ab2c3a2ba",
+      "id": "da669558-3763-47b7-9ca5-7e8f407c4222",
       "name": "Wrecking Ball ban icon",
       "originalFilename": "Wrecking Ball.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "71f28edf-a81f-49bc-a8fd-8fbdcd65abae"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "c8dc82204edf9319f84a62c0078520af4e630b03ff485db0dbbf123b3b9306c8",
+      "icon": null,
+      "id": "89b1ef2f-8cc7-4966-8a10-2fb4ae546cfc",
+      "name": "Wrecking Ball badge",
+      "originalFilename": "Wrecking Ball.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "71f28edf-a81f-49bc-a8fd-8fbdcd65abae"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "f479cf0afb17c2fdfe4832ffa60a7f9f2f9752979830a6dd8bcb9126e156505c",
+      "icon": null,
+      "id": "027b6d6f-3506-4c69-b7c1-f53664e0c4f4",
+      "name": "Wrecking Ball transparent",
+      "originalFilename": "Wrecking Ball.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "aef99f49-85f4-4626-8f92-2e4278789ca2"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "e4157a71bb307b4ca910d901773f43d187c22101c5f4284a0a5f3caba8ec4bdd",
       "icon": null,
-      "id": "d2e5aab5-108c-4d6d-a45f-b8d53d8d01b8",
+      "id": "a1c095f9-9f75-4158-b583-5f2304bbba97",
       "name": "Wuyang ban icon",
       "originalFilename": "Wuyang.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "aef99f49-85f4-4626-8f92-2e4278789ca2"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "5b4948c84b20d09907fc23d44dd9d125aff5ccdab4952e8f5ebc2ead4ba7b236",
+      "icon": null,
+      "id": "86e52dd5-29ce-49dc-b257-020666f15321",
+      "name": "Wuyang badge",
+      "originalFilename": "Wuyang.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "aef99f49-85f4-4626-8f92-2e4278789ca2"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "117071fe8eaf88c86644492b225cdf1b79eef833ec91afb0f424e8837fadad0d",
+      "icon": null,
+      "id": "e2eaf454-c18c-403d-9bc3-2a10afafff9e",
+      "name": "Wuyang transparent",
+      "originalFilename": "Wuyang.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "09407cab-902c-42c7-bc84-b5968b906e5d"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "8819ba85823136640d8eba2af6fd7b19d46b9ee8ab192a4e06f396d1e5231f7a",
       "icon": null,
-      "id": "51ceabe5-c814-40d3-8fd3-276053fe4961",
+      "id": "13f6e42f-3c31-4212-891c-63c76b3d9205",
       "name": "Zarya ban icon",
       "originalFilename": "Zarya.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "09407cab-902c-42c7-bc84-b5968b906e5d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "ea965c62c10c8aaec2b7af47f25f18b80837e34876481ad33485735b0a1bc613",
+      "icon": null,
+      "id": "84c2708a-d296-4c34-939c-bc2eb63d4c60",
+      "name": "Zarya badge",
+      "originalFilename": "Zarya.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "09407cab-902c-42c7-bc84-b5968b906e5d"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "efaa584ce0e29b7d9867e32026cbe1faaf57135a80d0933ea83017958bd9406e",
+      "icon": null,
+      "id": "a83b9064-c30b-4d3f-9476-414c3245bb09",
+      "name": "Zarya transparent",
+      "originalFilename": "Zarya.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     },
     {
       "attachment": {
         "kind": "heroBanIcon",
         "owner": "ec3b0eb4-ef54-4794-a949-22827e58b03e"
       },
+      "badge": null,
       "category": "hero",
       "ext": "png",
       "gameMode": null,
       "hash": "71cabc939c577581f66b952f9c70891db779251e8e70f29de3c7bf494edacfe4",
       "icon": null,
-      "id": "52825ee6-7049-431c-b431-fd0cc1aad9ea",
+      "id": "9af11f27-c0fc-4f3f-9aa0-76efd2a0b597",
       "name": "Zenyatta ban icon",
       "originalFilename": "Zenyatta.png",
-      "portrait": null
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroBadge",
+        "owner": "ec3b0eb4-ef54-4794-a949-22827e58b03e"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "0174d57a9fe9ee20c0075c10cfa39ed5cc36fc2c376e25bcd7585992bb234787",
+      "icon": null,
+      "id": "3ce7c84d-26f1-4422-ac54-b8c563eb3508",
+      "name": "Zenyatta badge",
+      "originalFilename": "Zenyatta.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
+    },
+    {
+      "attachment": {
+        "kind": "heroTransparent",
+        "owner": "ec3b0eb4-ef54-4794-a949-22827e58b03e"
+      },
+      "badge": null,
+      "category": "hero",
+      "ext": "png",
+      "gameMode": null,
+      "hash": "b0ebeef3f8830e8b10e24628e4e1805e87951715761febf9d21fff07f660f31b",
+      "icon": null,
+      "id": "9ba1860d-279b-45ba-99ee-fac54b4d90c0",
+      "name": "Zenyatta transparent",
+      "originalFilename": "Zenyatta.png",
+      "portrait": null,
+      "role": null,
+      "transparent": null
     }
   ]
 }
