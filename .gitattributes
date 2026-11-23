@@ -1,0 +1,6 @@
+# Keep text files normalised to LF so the manifest stays byte-identical to the
+# pack that the release ships.
+* text=auto eol=lf
+
+# Binary artwork.
+*.png binary
